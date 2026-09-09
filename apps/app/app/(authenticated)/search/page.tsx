@@ -1,5 +1,4 @@
 import { auth } from "@repo/auth/server";
-import { database } from "@repo/database";
 import { notFound, redirect } from "next/navigation";
 import { Header } from "../components/header";
 
@@ -22,21 +21,25 @@ export const generateMetadata = async ({
 
 const SearchPage = async ({ searchParams }: SearchPageProperties) => {
   const { q } = await searchParams;
-  const pages = await database.page.findMany({
-    where: {
-      name: {
-        contains: q,
-      },
-    },
-  });
+  
+  if (!q) {
+    redirect("/");
+  }
+
+  let pages: any[] = [];
+  try {
+    const res = await fetch(`http://localhost:8000/pages?q=${encodeURIComponent(q)}`, { cache: "no-store" });
+    if (res.ok) {
+      pages = await res.json();
+    }
+  } catch (error) {
+    console.error("Failed to fetch pages", error);
+  }
+
   const { orgId } = await auth();
 
   if (!orgId) {
     notFound();
-  }
-
-  if (!q) {
-    redirect("/");
   }
 
   return (

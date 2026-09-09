@@ -6,11 +6,11 @@ Thank you, Sam Gutentag ([@samgutentag](https://github.com/samgutentag)), for al
 
 #### 🐛 Bug Fix
 
-- Feat/trunk integration [#735](https://github.com/vercel/next-forge/pull/735) ([@samgutentag](https://github.com/samgutentag) [@haydenbleasel](https://github.com/haydenbleasel))
+- Feat/trunk integration [#735](https://github.com/vercel//Boilerplate/pull/735) ([@samgutentag](https://github.com/samgutentag) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 - Sam Gutentag ([@samgutentag](https://github.com/samgutentag))
 
 ---
@@ -27,8 +27,8 @@ Thanks for all your work!
 
 #### 🐛 Bug Fix
 
-- Add c15t addon [#728](https://github.com/vercel/next-forge/pull/728) ([@KayleeWilliams](https://github.com/KayleeWilliams))
-- chore(docs): update and rename friendlier-words.mdx to joyful.mdx [#731](https://github.com/vercel/next-forge/pull/731) ([@JamesSingleton](https://github.com/JamesSingleton))
+- Add c15t addon [#728](https://github.com/vercel//Boilerplate/pull/728) ([@KayleeWilliams](https://github.com/KayleeWilliams))
+- chore(docs): update and rename friendlier-words.mdx to joyful.mdx [#731](https://github.com/vercel//Boilerplate/pull/731) ([@JamesSingleton](https://github.com/JamesSingleton))
 
 #### Authors: 2
 
@@ -49,35 +49,35 @@ Thanks for all your work!
 
 #### 💥 Breaking Change
 
-- V6 [#688](https://github.com/vercel/next-forge/pull/688) ([@haydenbleasel](https://github.com/haydenbleasel))
+- V6 [#688](https://github.com/vercel//Boilerplate/pull/688) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### 🐛 Bug Fix
 
-- fix(docs): use /docs prefix for Supabase Auth migration links in data… [#684](https://github.com/vercel/next-forge/pull/684) ([@dexsnake](https://github.com/dexsnake))
-- Add sitemap.md route [#687](https://github.com/vercel/next-forge/pull/687) ([@molebox](https://github.com/molebox))
-- Fix React Server Components CVE vulnerabilities [#676](https://github.com/vercel/next-forge/pull/676) ([@vercel[bot]](https://github.com/vercel[bot]) [@haydenbleasel](https://github.com/haydenbleasel))
-- Fix React Server Components CVE vulnerabilities [#675](https://github.com/vercel/next-forge/pull/675) ([@vercel[bot]](https://github.com/vercel[bot]) [@haydenbleasel](https://github.com/haydenbleasel))
+- fix(docs): use /docs prefix for Supabase Auth migration links in data… [#684](https://github.com/vercel//Boilerplate/pull/684) ([@dexsnake](https://github.com/dexsnake))
+- Add sitemap.md route [#687](https://github.com/vercel//Boilerplate/pull/687) ([@molebox](https://github.com/molebox))
+- Fix React Server Components CVE vulnerabilities [#676](https://github.com/vercel//Boilerplate/pull/676) ([@vercel[bot]](https://github.com/vercel[bot]) [@abdurrahmanse](https://github.com/abdurrahmanse))
+- Fix React Server Components CVE vulnerabilities [#675](https://github.com/vercel//Boilerplate/pull/675) ([@vercel[bot]](https://github.com/vercel[bot]) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### ⚠️ Pushed to `main`
 
-- Remove sed step, setup-node handles OIDC exchange ([@haydenbleasel](https://github.com/haydenbleasel))
-- Add registry-url back, update npm, strip authToken for OIDC ([@haydenbleasel](https://github.com/haydenbleasel))
-- Remove registry-url to let npm use OIDC directly ([@haydenbleasel](https://github.com/haydenbleasel))
-- Normalize repository URL format ([@haydenbleasel](https://github.com/haydenbleasel))
-- Add publishConfig for npm OIDC provenance ([@haydenbleasel](https://github.com/haydenbleasel))
-- Fix release CI for npm OIDC trusted publishing ([@haydenbleasel](https://github.com/haydenbleasel))
-- Update release.yml ([@haydenbleasel](https://github.com/haydenbleasel))
-- Update index.ts ([@haydenbleasel](https://github.com/haydenbleasel))
+- Remove sed step, setup-node handles OIDC exchange ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Add registry-url back, update npm, strip authToken for OIDC ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Remove registry-url to let npm use OIDC directly ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Normalize repository URL format ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Add publishConfig for npm OIDC provenance ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Fix release CI for npm OIDC trusted publishing ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Update release.yml ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Update index.ts ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### 🔩 Dependency Updates
 
-- Bump actions/cache from 4 to 5 [#681](https://github.com/vercel/next-forge/pull/681) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump actions/cache from 4 to 5 [#681](https://github.com/vercel//Boilerplate/pull/681) ([@dependabot[bot]](https://github.com/dependabot[bot]))
 
 #### Authors: 5
 
 - [@dependabot[bot]](https://github.com/dependabot[bot])
 - [@vercel[bot]](https://github.com/vercel[bot])
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 - Rich Haines ([@molebox](https://github.com/molebox))
 - Travis Butler ([@dexsnake](https://github.com/dexsnake))
 
@@ -87,11 +87,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Update page.tsx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update page.tsx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -99,11 +99,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Update page.tsx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update page.tsx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -115,17 +115,17 @@ Thank you, Dmytro Pletenskyi ([@ph1losof](https://github.com/ph1losof)), for all
 
 #### 🚀 Enhancement
 
-- Update dependencies [#670](https://github.com/vercel/next-forge/pull/670) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update dependencies [#670](https://github.com/vercel//Boilerplate/pull/670) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### 🐛 Bug Fix
 
-- docs(migrations): fixes middleware configuration for better-auth [#667](https://github.com/vercel/next-forge/pull/667) ([@ph1losof](https://github.com/ph1losof) [@haydenbleasel](https://github.com/haydenbleasel))
-- fix: update prisma to 7.0.0 and use prisma-client generator [#663](https://github.com/vercel/next-forge/pull/663) ([@ph1losof](https://github.com/ph1losof))
+- docs(migrations): fixes middleware configuration for better-auth [#667](https://github.com/vercel//Boilerplate/pull/667) ([@ph1losof](https://github.com/ph1losof) [@abdurrahmanse](https://github.com/abdurrahmanse))
+- fix: update prisma to 7.0.0 and use prisma-client generator [#663](https://github.com/vercel//Boilerplate/pull/663) ([@ph1losof](https://github.com/ph1losof))
 
 #### Authors: 2
 
 - Dmytro Pletenskyi ([@ph1losof](https://github.com/ph1losof))
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -133,7 +133,7 @@ Thank you, Dmytro Pletenskyi ([@ph1losof](https://github.com/ph1losof)), for all
 
 #### 🐛 Bug Fix
 
-- Update packages for React Flight RCE advisory [#669](https://github.com/vercel/next-forge/pull/669) ([@vercel[bot]](https://github.com/vercel[bot]))
+- Update packages for React Flight RCE advisory [#669](https://github.com/vercel//Boilerplate/pull/669) ([@vercel[bot]](https://github.com/vercel[bot]))
 
 #### Authors: 1
 
@@ -145,7 +145,7 @@ Thank you, Dmytro Pletenskyi ([@ph1losof](https://github.com/ph1losof)), for all
 
 #### 🐛 Bug Fix
 
-- fix: email pkg tsconfig to encompass .ts(x) files [#660](https://github.com/vercel/next-forge/pull/660) ([@karelvuong](https://github.com/karelvuong))
+- fix: email pkg tsconfig to encompass .ts(x) files [#660](https://github.com/vercel//Boilerplate/pull/660) ([@karelvuong](https://github.com/karelvuong))
 
 #### Authors: 1
 
@@ -157,11 +157,11 @@ Thank you, Dmytro Pletenskyi ([@ph1losof](https://github.com/ph1losof)), for all
 
 #### ⚠️ Pushed to `main`
 
-- Migrate from React-Markdown to Streamdown ([@haydenbleasel](https://github.com/haydenbleasel))
+- Migrate from React-Markdown to Streamdown ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -169,11 +169,11 @@ Thank you, Dmytro Pletenskyi ([@ph1losof](https://github.com/ph1losof)), for all
 
 #### 🐛 Bug Fix
 
-- Bump deps [#648](https://github.com/vercel/next-forge/pull/648) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Bump deps [#648](https://github.com/vercel//Boilerplate/pull/648) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -191,16 +191,16 @@ Thanks for all your work!
 
 #### 🚀 Enhancement
 
-- Use improved colors and font for react-tweet [#599](https://github.com/vercel/next-forge/pull/599) ([@lakbychance](https://github.com/lakbychance) [@haydenbleasel](https://github.com/haydenbleasel))
+- Use improved colors and font for react-tweet [#599](https://github.com/vercel//Boilerplate/pull/599) ([@lakbychance](https://github.com/lakbychance) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### 🐛 Bug Fix
 
-- Update Storybook to the latest version [#645](https://github.com/vercel/next-forge/pull/645) ([@kuizuo](https://github.com/kuizuo))
-- fix: Refactor PrismaNeon initialization to use PoolConfig instead of Pool directly [#644](https://github.com/vercel/next-forge/pull/644) ([@rnwolfe](https://github.com/rnwolfe))
+- Update Storybook to the latest version [#645](https://github.com/vercel//Boilerplate/pull/645) ([@kuizuo](https://github.com/kuizuo))
+- fix: Refactor PrismaNeon initialization to use PoolConfig instead of Pool directly [#644](https://github.com/vercel//Boilerplate/pull/644) ([@rnwolfe](https://github.com/rnwolfe))
 
 #### Authors: 4
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 - Kuizuo ([@kuizuo](https://github.com/kuizuo))
 - Lakshya Thakur ([@lakbychance](https://github.com/lakbychance))
 - Ryan ([@rnwolfe](https://github.com/rnwolfe))
@@ -211,11 +211,11 @@ Thanks for all your work!
 
 #### 🐛 Bug Fix
 
-- Update Analytics package [#640](https://github.com/vercel/next-forge/pull/640) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update Analytics package [#640](https://github.com/vercel//Boilerplate/pull/640) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -223,11 +223,11 @@ Thanks for all your work!
 
 #### 🚀 Enhancement
 
-- Update README.md [#639](https://github.com/vercel/next-forge/pull/639) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update README.md [#639](https://github.com/vercel//Boilerplate/pull/639) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -235,11 +235,11 @@ Thanks for all your work!
 
 #### 🐛 Bug Fix
 
-- 5.1 [#637](https://github.com/vercel/next-forge/pull/637) ([@haydenbleasel](https://github.com/haydenbleasel))
+- 5.1 [#637](https://github.com/vercel//Boilerplate/pull/637) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -247,11 +247,11 @@ Thanks for all your work!
 
 #### 🐛 Bug Fix
 
-- fix: knock provider theme [#566](https://github.com/vercel/next-forge/pull/566) ([@jpvalery](https://github.com/jpvalery) [@haydenbleasel](https://github.com/haydenbleasel))
+- fix: knock provider theme [#566](https://github.com/vercel//Boilerplate/pull/566) ([@jpvalery](https://github.com/jpvalery) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 - Jp ([@jpvalery](https://github.com/jpvalery))
 
 ---
@@ -264,10 +264,10 @@ Thank you, null[@jonathanagustin](https://github.com/jonathanagustin), for all y
 
 #### 🐛 Bug Fix
 
-- fix: better dark/light support on unauthenticated [#567](https://github.com/vercel/next-forge/pull/567) ([@jpvalery](https://github.com/jpvalery))
-- Fix badge image in Metabase docs [#603](https://github.com/vercel/next-forge/pull/603) ([@matthewhefferon](https://github.com/matthewhefferon))
-- fix: add missing --dir flag to email build and export scripts [#620](https://github.com/vercel/next-forge/pull/620) ([@jonathanagustin](https://github.com/jonathanagustin))
-- upgrade basehub to v9 [#606](https://github.com/vercel/next-forge/pull/606) ([@julianbenegas](https://github.com/julianbenegas))
+- fix: better dark/light support on unauthenticated [#567](https://github.com/vercel//Boilerplate/pull/567) ([@jpvalery](https://github.com/jpvalery))
+- Fix badge image in Metabase docs [#603](https://github.com/vercel//Boilerplate/pull/603) ([@matthewhefferon](https://github.com/matthewhefferon))
+- fix: add missing --dir flag to email build and export scripts [#620](https://github.com/vercel//Boilerplate/pull/620) ([@jonathanagustin](https://github.com/jonathanagustin))
+- upgrade basehub to v9 [#606](https://github.com/vercel//Boilerplate/pull/606) ([@julianbenegas](https://github.com/julianbenegas))
 
 #### Authors: 4
 
@@ -282,7 +282,7 @@ Thank you, null[@jonathanagustin](https://github.com/jonathanagustin), for all y
 
 #### 🐛 Bug Fix
 
-- Improve Metabase integration instructions [#601](https://github.com/vercel/next-forge/pull/601) ([@matthewhefferon](https://github.com/matthewhefferon))
+- Improve Metabase integration instructions [#601](https://github.com/vercel//Boilerplate/pull/601) ([@matthewhefferon](https://github.com/matthewhefferon))
 
 #### Authors: 1
 
@@ -302,8 +302,8 @@ Thanks for all your work!
 
 #### 🐛 Bug Fix
 
-- fix: correct google analytics env [#600](https://github.com/vercel/next-forge/pull/600) ([@karelvuong](https://github.com/karelvuong))
-- add mobile menu [#574](https://github.com/vercel/next-forge/pull/574) ([@chocochu](https://github.com/chocochu))
+- fix: correct google analytics env [#600](https://github.com/vercel//Boilerplate/pull/600) ([@karelvuong](https://github.com/karelvuong))
+- add mobile menu [#574](https://github.com/vercel//Boilerplate/pull/574) ([@chocochu](https://github.com/chocochu))
 
 #### Authors: 2
 
@@ -316,11 +316,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Update meta.json ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update meta.json ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -328,11 +328,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Fix min-widths ([@haydenbleasel](https://github.com/haydenbleasel))
+- Fix min-widths ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -340,11 +340,11 @@ Thanks for all your work!
 
 #### 💥 Breaking Change
 
-- ▲ [#561](https://github.com/vercel/next-forge/pull/561) ([@haydenbleasel](https://github.com/haydenbleasel))
+- ▲ [#561](https://github.com/vercel//Boilerplate/pull/561) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -352,11 +352,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Remove redundant email component ([@haydenbleasel](https://github.com/haydenbleasel))
+- Remove redundant email component ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -364,11 +364,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Roll back Prisma updates ([@haydenbleasel](https://github.com/haydenbleasel))
+- Roll back Prisma updates ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -376,11 +376,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #537 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #537 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -388,11 +388,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Fix broken links in code ([@haydenbleasel](https://github.com/haydenbleasel))
+- Fix broken links in code ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -400,12 +400,12 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Add link validation script ([@haydenbleasel](https://github.com/haydenbleasel))
-- Resolves #369 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Add link validation script ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Resolves #369 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -413,11 +413,11 @@ Thanks for all your work!
 
 #### 🚀 Enhancement
 
-- Migrate docs and landing page to Fumadocs [#548](https://github.com/haydenbleasel/next-forge/pull/548) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Migrate docs and landing page to Fumadocs [#548](https://github.com/abdurrahmanse//Boilerplate/pull/548) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -425,11 +425,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Update api.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update api.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -437,15 +437,15 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #352 ([@haydenbleasel](https://github.com/haydenbleasel))
-- Make webhook endpoint names provider agnostic ([@haydenbleasel](https://github.com/haydenbleasel))
-- Skip CI builds ([@haydenbleasel](https://github.com/haydenbleasel))
-- Build fixes ([@haydenbleasel](https://github.com/haydenbleasel))
-- Bump deps ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #352 ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Make webhook endpoint names provider agnostic ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Skip CI builds ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Build fixes ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Bump deps ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -453,14 +453,14 @@ Thanks for all your work!
 
 #### 🚀 Enhancement
 
-- Bump @prisma/nextjs-monorepo-workaround-plugin from 6.6.0 to 6.7.0 [#534](https://github.com/haydenbleasel/next-forge/pull/534) ([@dependabot[bot]](https://github.com/dependabot[bot]))
-- Bump @liveblocks/react from 2.22.3 to 2.24.1 [#536](https://github.com/haydenbleasel/next-forge/pull/536) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @prisma/nextjs-monorepo-workaround-plugin from 6.6.0 to 6.7.0 [#534](https://github.com/abdurrahmanse//Boilerplate/pull/534) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @liveblocks/react from 2.22.3 to 2.24.1 [#536](https://github.com/abdurrahmanse//Boilerplate/pull/536) ([@dependabot[bot]](https://github.com/dependabot[bot]))
 
 #### 🐛 Bug Fix
 
-- Bump @next/third-parties from 15.3.0 to 15.3.1 [#530](https://github.com/haydenbleasel/next-forge/pull/530) ([@dependabot[bot]](https://github.com/dependabot[bot]))
-- Bump recharts from 2.15.2 to 2.15.3 [#532](https://github.com/haydenbleasel/next-forge/pull/532) ([@dependabot[bot]](https://github.com/dependabot[bot]))
-- Bump @radix-ui/react-menubar from 1.1.7 to 1.1.12 [#535](https://github.com/haydenbleasel/next-forge/pull/535) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @next/third-parties from 15.3.0 to 15.3.1 [#530](https://github.com/abdurrahmanse//Boilerplate/pull/530) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump recharts from 2.15.2 to 2.15.3 [#532](https://github.com/abdurrahmanse//Boilerplate/pull/532) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @radix-ui/react-menubar from 1.1.7 to 1.1.12 [#535](https://github.com/abdurrahmanse//Boilerplate/pull/535) ([@dependabot[bot]](https://github.com/dependabot[bot]))
 
 #### Authors: 1
 
@@ -472,13 +472,13 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #516 ([@haydenbleasel](https://github.com/haydenbleasel))
-- Resolves #527 ([@haydenbleasel](https://github.com/haydenbleasel))
-- Resolves #543 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #516 ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Resolves #527 ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Resolves #543 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -486,12 +486,12 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Revert Clerk keyless change (not ready for prod) ([@haydenbleasel](https://github.com/haydenbleasel))
-- Resolves #544 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Revert Clerk keyless change (not ready for prod) ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Resolves #544 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -499,11 +499,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Misc fixes ([@haydenbleasel](https://github.com/haydenbleasel))
+- Misc fixes ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -511,12 +511,12 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Update vercel.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
-- Implement Clerk keyless mode ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update vercel.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Implement Clerk keyless mode ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -524,7 +524,7 @@ Thanks for all your work!
 
 #### 🐛 Bug Fix
 
-- fix(web): add missing 'mx-auto' on container in BlogPost page - fix #545 [#547](https://github.com/haydenbleasel/next-forge/pull/547) ([@QuentinFrc](https://github.com/QuentinFrc))
+- fix(web): add missing 'mx-auto' on container in BlogPost page - fix #545 [#547](https://github.com/abdurrahmanse//Boilerplate/pull/547) ([@QuentinFrc](https://github.com/QuentinFrc))
 
 #### Authors: 1
 
@@ -536,7 +536,7 @@ Thanks for all your work!
 
 #### 🐛 Bug Fix
 
-- fix: language switcher [#541](https://github.com/haydenbleasel/next-forge/pull/541) ([@jpvalery](https://github.com/jpvalery))
+- fix: language switcher [#541](https://github.com/abdurrahmanse//Boilerplate/pull/541) ([@jpvalery](https://github.com/jpvalery))
 
 #### Authors: 1
 
@@ -552,7 +552,7 @@ Thank you, Quentin ([@QuentinFrc](https://github.com/QuentinFrc)), for all your 
 
 #### 🐛 Bug Fix
 
-- Enhanced better-auth migration docs [#542](https://github.com/haydenbleasel/next-forge/pull/542) ([@QuentinFrc](https://github.com/QuentinFrc))
+- Enhanced better-auth migration docs [#542](https://github.com/abdurrahmanse//Boilerplate/pull/542) ([@QuentinFrc](https://github.com/QuentinFrc))
 
 #### Authors: 1
 
@@ -568,12 +568,12 @@ Thank you, Jp ([@jpvalery](https://github.com/jpvalery)), for all your work!
 
 #### 🐛 Bug Fix
 
-- fix: metadataBase [#540](https://github.com/haydenbleasel/next-forge/pull/540) ([@jpvalery](https://github.com/jpvalery) [@haydenbleasel](https://github.com/haydenbleasel))
-- fix: add success color variable [#538](https://github.com/haydenbleasel/next-forge/pull/538) ([@jpvalery](https://github.com/jpvalery) [@haydenbleasel](https://github.com/haydenbleasel))
+- fix: metadataBase [#540](https://github.com/abdurrahmanse//Boilerplate/pull/540) ([@jpvalery](https://github.com/jpvalery) [@abdurrahmanse](https://github.com/abdurrahmanse))
+- fix: add success color variable [#538](https://github.com/abdurrahmanse//Boilerplate/pull/538) ([@jpvalery](https://github.com/jpvalery) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 - Jp ([@jpvalery](https://github.com/jpvalery))
 
 ---
@@ -582,7 +582,7 @@ Thank you, Jp ([@jpvalery](https://github.com/jpvalery)), for all your work!
 
 #### 🐛 Bug Fix
 
-- Update Turborepo documentation link. [#526](https://github.com/haydenbleasel/next-forge/pull/526) ([@anthonyshew](https://github.com/anthonyshew))
+- Update Turborepo documentation link. [#526](https://github.com/abdurrahmanse//Boilerplate/pull/526) ([@anthonyshew](https://github.com/anthonyshew))
 
 #### Authors: 1
 
@@ -598,7 +598,7 @@ Thank you, Uma Shankar ([@maverickdude](https://github.com/maverickdude)), for a
 
 #### 🐛 Bug Fix
 
-- Fix a typo in debugging.mdx [#524](https://github.com/haydenbleasel/next-forge/pull/524) ([@maverickdude](https://github.com/maverickdude))
+- Fix a typo in debugging.mdx [#524](https://github.com/abdurrahmanse//Boilerplate/pull/524) ([@maverickdude](https://github.com/maverickdude))
 
 #### Authors: 1
 
@@ -614,7 +614,7 @@ Thank you, Jan Kuppens ([@JanKups](https://github.com/JanKups)), for all your wo
 
 #### 🐛 Bug Fix
 
-- Fixed Build fails (Storybook) - fresh install #517 [#520](https://github.com/haydenbleasel/next-forge/pull/520) ([@JanKups](https://github.com/JanKups))
+- Fixed Build fails (Storybook) - fresh install #517 [#520](https://github.com/abdurrahmanse//Boilerplate/pull/520) ([@JanKups](https://github.com/JanKups))
 
 #### Authors: 1
 
@@ -626,12 +626,12 @@ Thank you, Jan Kuppens ([@JanKups](https://github.com/JanKups)), for all your wo
 
 #### ⚠️ Pushed to `main`
 
-- Update pnpm-lock.yaml ([@haydenbleasel](https://github.com/haydenbleasel))
-- Build fixes ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update pnpm-lock.yaml ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Build fixes ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -639,14 +639,14 @@ Thank you, Jan Kuppens ([@JanKups](https://github.com/JanKups)), for all your wo
 
 #### ⚠️ Pushed to `main`
 
-- Remove Prisma client from app ([@haydenbleasel](https://github.com/haydenbleasel))
-- Bump deps except Prisma ([@haydenbleasel](https://github.com/haydenbleasel))
-- Update structure.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
-- Upgrade shadcn/ui ([@haydenbleasel](https://github.com/haydenbleasel))
+- Remove Prisma client from app ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Bump deps except Prisma ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Update structure.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Upgrade shadcn/ui ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -654,14 +654,14 @@ Thank you, Jan Kuppens ([@JanKups](https://github.com/JanKups)), for all your wo
 
 #### ⚠️ Pushed to `main`
 
-- Merge branch 'main' of https://github.com/haydenbleasel/next-forge ([@haydenbleasel](https://github.com/haydenbleasel))
-- Resolves #499 ([@haydenbleasel](https://github.com/haydenbleasel))
-- Update shadcn CSS, resolved #438 ([@haydenbleasel](https://github.com/haydenbleasel))
-- Fix typo ([@haydenbleasel](https://github.com/haydenbleasel))
+- Merge branch 'main' of https://github.com/abdurrahmanse//Boilerplate ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Resolves #499 ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Update shadcn CSS, resolved #438 ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Fix typo ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -669,11 +669,11 @@ Thank you, Jan Kuppens ([@JanKups](https://github.com/JanKups)), for all your wo
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #501 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #501 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -681,11 +681,11 @@ Thank you, Jan Kuppens ([@JanKups](https://github.com/JanKups)), for all your wo
 
 #### 🐛 Bug Fix
 
-- Fixed Issue #500 [#513](https://github.com/haydenbleasel/next-forge/pull/513) ([@mathewlewallen](https://github.com/mathewlewallen) [@haydenbleasel](https://github.com/haydenbleasel))
+- Fixed Issue #500 [#513](https://github.com/abdurrahmanse//Boilerplate/pull/513) ([@mathewlewallen](https://github.com/mathewlewallen) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 - mathewlewallen ([@mathewlewallen](https://github.com/mathewlewallen))
 
 ---
@@ -694,7 +694,7 @@ Thank you, Jan Kuppens ([@JanKups](https://github.com/JanKups)), for all your wo
 
 #### 🚀 Enhancement
 
-- Bump vitest from 3.0.7 to 3.1.1 [#503](https://github.com/haydenbleasel/next-forge/pull/503) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump vitest from 3.0.7 to 3.1.1 [#503](https://github.com/abdurrahmanse//Boilerplate/pull/503) ([@dependabot[bot]](https://github.com/dependabot[bot]))
 
 #### Authors: 1
 
@@ -706,7 +706,7 @@ Thank you, Jan Kuppens ([@JanKups](https://github.com/JanKups)), for all your wo
 
 #### 🚀 Enhancement
 
-- Bump shiki from 3.1.0 to 3.2.1 [#504](https://github.com/haydenbleasel/next-forge/pull/504) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump shiki from 3.1.0 to 3.2.1 [#504](https://github.com/abdurrahmanse//Boilerplate/pull/504) ([@dependabot[bot]](https://github.com/dependabot[bot]))
 
 #### Authors: 1
 
@@ -718,28 +718,28 @@ Thank you, Jan Kuppens ([@JanKups](https://github.com/JanKups)), for all your wo
 
 #### 💥 Breaking Change
 
-- Bump react-email from 3.0.7 to 4.0.2 [#507](https://github.com/haydenbleasel/next-forge/pull/507) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump react-email from 3.0.7 to 4.0.2 [#507](https://github.com/abdurrahmanse//Boilerplate/pull/507) ([@dependabot[bot]](https://github.com/dependabot[bot]))
 
 #### 🚀 Enhancement
 
-- Bump @liveblocks/node from 2.20.0 to 2.22.2 [#502](https://github.com/haydenbleasel/next-forge/pull/502) ([@dependabot[bot]](https://github.com/dependabot[bot]))
-- Bump react-markdown from 10.0.1 to 10.1.0 [#505](https://github.com/haydenbleasel/next-forge/pull/505) ([@dependabot[bot]](https://github.com/dependabot[bot]))
-- Bump fumadocs-core from 15.0.15 to 15.2.1 [#510](https://github.com/haydenbleasel/next-forge/pull/510) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @liveblocks/node from 2.20.0 to 2.22.2 [#502](https://github.com/abdurrahmanse//Boilerplate/pull/502) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump react-markdown from 10.0.1 to 10.1.0 [#505](https://github.com/abdurrahmanse//Boilerplate/pull/505) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump fumadocs-core from 15.0.15 to 15.2.1 [#510](https://github.com/abdurrahmanse//Boilerplate/pull/510) ([@dependabot[bot]](https://github.com/dependabot[bot]))
 
 #### 🐛 Bug Fix
 
-- Bump @types/node from 22.13.9 to 22.13.14 [#506](https://github.com/haydenbleasel/next-forge/pull/506) ([@dependabot[bot]](https://github.com/dependabot[bot]))
-- Bump @tailwindcss/postcss from 4.0.12 to 4.0.17 [#508](https://github.com/haydenbleasel/next-forge/pull/508) ([@dependabot[bot]](https://github.com/dependabot[bot]))
-- Bump @storybook/blocks from 8.6.4 to 8.6.11 [#509](https://github.com/haydenbleasel/next-forge/pull/509) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @types/node from 22.13.9 to 22.13.14 [#506](https://github.com/abdurrahmanse//Boilerplate/pull/506) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @tailwindcss/postcss from 4.0.12 to 4.0.17 [#508](https://github.com/abdurrahmanse//Boilerplate/pull/508) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @storybook/blocks from 8.6.4 to 8.6.11 [#509](https://github.com/abdurrahmanse//Boilerplate/pull/509) ([@dependabot[bot]](https://github.com/dependabot[bot]))
 
 #### ⚠️ Pushed to `main`
 
-- Update pnpm-lock.yaml ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update pnpm-lock.yaml ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
 - [@dependabot[bot]](https://github.com/dependabot[bot])
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -751,11 +751,11 @@ Thank you, mathewlewallen ([@mathewlewallen](https://github.com/mathewlewallen))
 
 #### 🐛 Bug Fix
 
-- feat: amend internationalization middleware and index. Still uses nex… [#491](https://github.com/haydenbleasel/next-forge/pull/491) ([@mathewlewallen](https://github.com/mathewlewallen) [@haydenbleasel](https://github.com/haydenbleasel))
+- feat: amend internationalization middleware and index. Still uses nex… [#491](https://github.com/abdurrahmanse//Boilerplate/pull/491) ([@mathewlewallen](https://github.com/mathewlewallen) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 - mathewlewallen ([@mathewlewallen](https://github.com/mathewlewallen))
 
 ---
@@ -768,7 +768,7 @@ Thank you, Buns Enchantress ([@BunsDev](https://github.com/BunsDev)), for all yo
 
 #### 🐛 Bug Fix
 
-- fix error: build script in /packages/cms [#492](https://github.com/haydenbleasel/next-forge/pull/492) ([@BunsDev](https://github.com/BunsDev))
+- fix error: build script in /packages/cms [#492](https://github.com/abdurrahmanse//Boilerplate/pull/492) ([@BunsDev](https://github.com/BunsDev))
 
 #### Authors: 1
 
@@ -780,11 +780,11 @@ Thank you, Buns Enchantress ([@BunsDev](https://github.com/BunsDev)), for all yo
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #316 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #316 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -792,11 +792,11 @@ Thank you, Buns Enchantress ([@BunsDev](https://github.com/BunsDev)), for all yo
 
 #### 🐛 Bug Fix
 
-- Tailwind 4 [#425](https://github.com/haydenbleasel/next-forge/pull/425) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Tailwind 4 [#425](https://github.com/abdurrahmanse//Boilerplate/pull/425) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -808,12 +808,12 @@ Thank you, David Bonachera ([@davidbonachera](https://github.com/davidbonachera)
 
 #### 🐛 Bug Fix
 
-- docs: add link to Prisma Database Configuration Guide [#478](https://github.com/haydenbleasel/next-forge/pull/478) ([@haydenbleasel](https://github.com/haydenbleasel) [@davidbonachera](https://github.com/davidbonachera))
+- docs: add link to Prisma Database Configuration Guide [#478](https://github.com/abdurrahmanse//Boilerplate/pull/478) ([@abdurrahmanse](https://github.com/abdurrahmanse) [@davidbonachera](https://github.com/davidbonachera))
 
 #### Authors: 2
 
 - David Bonachera ([@davidbonachera](https://github.com/davidbonachera))
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -821,11 +821,11 @@ Thank you, David Bonachera ([@davidbonachera](https://github.com/davidbonachera)
 
 #### ⚠️ Pushed to `main`
 
-- Fix languages ([@haydenbleasel](https://github.com/haydenbleasel))
+- Fix languages ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -833,11 +833,11 @@ Thank you, David Bonachera ([@davidbonachera](https://github.com/davidbonachera)
 
 #### 🐛 Bug Fix
 
-- Add more Languine keys [#475](https://github.com/haydenbleasel/next-forge/pull/475) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Add more Languine keys [#475](https://github.com/abdurrahmanse//Boilerplate/pull/475) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -845,11 +845,11 @@ Thank you, David Bonachera ([@davidbonachera](https://github.com/davidbonachera)
 
 #### ⚠️ Pushed to `main`
 
-- For #474 ([@haydenbleasel](https://github.com/haydenbleasel))
+- For #474 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -857,11 +857,11 @@ Thank you, David Bonachera ([@davidbonachera](https://github.com/davidbonachera)
 
 #### ⚠️ Pushed to `main`
 
-- Update overview.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update overview.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -869,15 +869,15 @@ Thank you, David Bonachera ([@davidbonachera](https://github.com/davidbonachera)
 
 #### 🚀 Enhancement
 
-- Internationalization and Languine [#473](https://github.com/haydenbleasel/next-forge/pull/473) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Internationalization and Languine [#473](https://github.com/abdurrahmanse//Boilerplate/pull/473) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### 📝 Documentation
 
-- Dub [#455](https://github.com/haydenbleasel/next-forge/pull/455) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Dub [#455](https://github.com/abdurrahmanse//Boilerplate/pull/455) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -885,11 +885,11 @@ Thank you, David Bonachera ([@davidbonachera](https://github.com/davidbonachera)
 
 #### 🐛 Bug Fix
 
-- Upgrade deps [#470](https://github.com/haydenbleasel/next-forge/pull/470) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Upgrade deps [#470](https://github.com/abdurrahmanse//Boilerplate/pull/470) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -901,7 +901,7 @@ Thank you, Andrés Filoso ([@andresfiloso](https://github.com/andresfiloso)), fo
 
 #### 🐛 Bug Fix
 
-- Add Knock environment variables to .env.example [#457](https://github.com/haydenbleasel/next-forge/pull/457) ([@andresfiloso](https://github.com/andresfiloso))
+- Add Knock environment variables to .env.example [#457](https://github.com/abdurrahmanse//Boilerplate/pull/457) ([@andresfiloso](https://github.com/andresfiloso))
 
 #### Authors: 1
 
@@ -917,11 +917,11 @@ Thank you, Justin Barsketis ([@barsketis](https://github.com/barsketis)), for al
 
 #### 🐛 Bug Fix
 
-- Prisma fixes [#452](https://github.com/haydenbleasel/next-forge/pull/452) ([@haydenbleasel](https://github.com/haydenbleasel) [@barsketis](https://github.com/barsketis))
+- Prisma fixes [#452](https://github.com/abdurrahmanse//Boilerplate/pull/452) ([@abdurrahmanse](https://github.com/abdurrahmanse) [@barsketis](https://github.com/barsketis))
 
 #### Authors: 2
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 - Justin Barsketis ([@barsketis](https://github.com/barsketis))
 
 ---
@@ -930,12 +930,12 @@ Thank you, Justin Barsketis ([@barsketis](https://github.com/barsketis)), for al
 
 #### ⚠️ Pushed to `main`
 
-- Update next-config.ts ([@haydenbleasel](https://github.com/haydenbleasel))
-- Bump deps ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update next-config.ts ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Bump deps ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -947,12 +947,12 @@ Thank you, Dan Billson ([@danbillson](https://github.com/danbillson)), for all y
 
 #### 🐛 Bug Fix
 
-- Add 'Switch to Paddle Billing' migration guide [#450](https://github.com/haydenbleasel/next-forge/pull/450) ([@danbillson](https://github.com/danbillson) [@haydenbleasel](https://github.com/haydenbleasel))
+- Add 'Switch to Paddle Billing' migration guide [#450](https://github.com/abdurrahmanse//Boilerplate/pull/450) ([@danbillson](https://github.com/danbillson) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
 - Dan Billson ([@danbillson](https://github.com/danbillson))
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -960,11 +960,11 @@ Thank you, Dan Billson ([@danbillson](https://github.com/danbillson)), for all y
 
 #### ⚠️ Pushed to `main`
 
-- Fix client-side posthog implementation ([@haydenbleasel](https://github.com/haydenbleasel))
+- Fix client-side posthog implementation ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -972,11 +972,11 @@ Thank you, Dan Billson ([@danbillson](https://github.com/danbillson)), for all y
 
 #### 🐛 Bug Fix
 
-- Upgrade [#447](https://github.com/haydenbleasel/next-forge/pull/447) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Upgrade [#447](https://github.com/abdurrahmanse//Boilerplate/pull/447) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -988,31 +988,31 @@ Thank you, YuCheng Chen ([@shamenchens](https://github.com/shamenchens)), for al
 
 #### 🐛 Bug Fix
 
-- feat: Use Link component for sidebar links [#441](https://github.com/haydenbleasel/next-forge/pull/441) ([@shamenchens](https://github.com/shamenchens))
+- feat: Use Link component for sidebar links [#441](https://github.com/abdurrahmanse//Boilerplate/pull/441) ([@shamenchens](https://github.com/shamenchens))
 
 #### ⚠️ Pushed to `main`
 
-- Update to pnpm 10 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update to pnpm 10 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### 🔩 Dependency Updates
 
-- Bump @storybook/nextjs from 8.5.0 to 8.5.3 [#444](https://github.com/haydenbleasel/next-forge/pull/444) ([@dependabot[bot]](https://github.com/dependabot[bot]))
-- Bump @radix-ui/react-dropdown-menu from 2.1.5 to 2.1.6 [#445](https://github.com/haydenbleasel/next-forge/pull/445) ([@dependabot[bot]](https://github.com/dependabot[bot]))
-- Bump the npm_and_yarn group with 2 updates [#446](https://github.com/haydenbleasel/next-forge/pull/446) ([@dependabot[bot]](https://github.com/dependabot[bot]))
-- Bump recharts from 2.15.0 to 2.15.1 [#430](https://github.com/haydenbleasel/next-forge/pull/430) ([@dependabot[bot]](https://github.com/dependabot[bot]))
-- Bump chromatic from 11.25.0 to 11.25.2 [#428](https://github.com/haydenbleasel/next-forge/pull/428) ([@dependabot[bot]](https://github.com/dependabot[bot]))
-- Bump @clerk/themes from 2.2.9 to 2.2.16 [#429](https://github.com/haydenbleasel/next-forge/pull/429) ([@dependabot[bot]](https://github.com/dependabot[bot]))
-- Bump require-in-the-middle from 7.4.0 to 7.5.0 [#431](https://github.com/haydenbleasel/next-forge/pull/431) ([@dependabot[bot]](https://github.com/dependabot[bot]))
-- Bump turbo from 2.3.3 to 2.4.0 [#432](https://github.com/haydenbleasel/next-forge/pull/432) ([@dependabot[bot]](https://github.com/dependabot[bot]))
-- Bump @next/bundle-analyzer from 15.1.5 to 15.1.6 [#433](https://github.com/haydenbleasel/next-forge/pull/433) ([@dependabot[bot]](https://github.com/dependabot[bot]))
-- Bump @radix-ui/react-dropdown-menu from 2.1.4 to 2.1.5 [#435](https://github.com/haydenbleasel/next-forge/pull/435) ([@dependabot[bot]](https://github.com/dependabot[bot]))
-- Bump basehub from 8.1.1 to 8.1.9 [#436](https://github.com/haydenbleasel/next-forge/pull/436) ([@dependabot[bot]](https://github.com/dependabot[bot]))
-- Bump @prisma/client from 6.2.1 to 6.3.0 [#437](https://github.com/haydenbleasel/next-forge/pull/437) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @storybook/nextjs from 8.5.0 to 8.5.3 [#444](https://github.com/abdurrahmanse//Boilerplate/pull/444) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @radix-ui/react-dropdown-menu from 2.1.5 to 2.1.6 [#445](https://github.com/abdurrahmanse//Boilerplate/pull/445) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump the npm_and_yarn group with 2 updates [#446](https://github.com/abdurrahmanse//Boilerplate/pull/446) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump recharts from 2.15.0 to 2.15.1 [#430](https://github.com/abdurrahmanse//Boilerplate/pull/430) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump chromatic from 11.25.0 to 11.25.2 [#428](https://github.com/abdurrahmanse//Boilerplate/pull/428) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @clerk/themes from 2.2.9 to 2.2.16 [#429](https://github.com/abdurrahmanse//Boilerplate/pull/429) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump require-in-the-middle from 7.4.0 to 7.5.0 [#431](https://github.com/abdurrahmanse//Boilerplate/pull/431) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump turbo from 2.3.3 to 2.4.0 [#432](https://github.com/abdurrahmanse//Boilerplate/pull/432) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @next/bundle-analyzer from 15.1.5 to 15.1.6 [#433](https://github.com/abdurrahmanse//Boilerplate/pull/433) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @radix-ui/react-dropdown-menu from 2.1.4 to 2.1.5 [#435](https://github.com/abdurrahmanse//Boilerplate/pull/435) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump basehub from 8.1.1 to 8.1.9 [#436](https://github.com/abdurrahmanse//Boilerplate/pull/436) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @prisma/client from 6.2.1 to 6.3.0 [#437](https://github.com/abdurrahmanse//Boilerplate/pull/437) ([@dependabot[bot]](https://github.com/dependabot[bot]))
 
 #### Authors: 3
 
 - [@dependabot[bot]](https://github.com/dependabot[bot])
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 - YuCheng Chen ([@shamenchens](https://github.com/shamenchens))
 
 ---
@@ -1021,16 +1021,16 @@ Thank you, YuCheng Chen ([@shamenchens](https://github.com/shamenchens)), for al
 
 #### ⚠️ Pushed to `main`
 
-- For #367 ([@haydenbleasel](https://github.com/haydenbleasel))
+- For #367 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### 🔩 Dependency Updates
 
-- Bump the npm_and_yarn group with 2 updates [#423](https://github.com/haydenbleasel/next-forge/pull/423) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump the npm_and_yarn group with 2 updates [#423](https://github.com/abdurrahmanse//Boilerplate/pull/423) ([@dependabot[bot]](https://github.com/dependabot[bot]))
 
 #### Authors: 2
 
 - [@dependabot[bot]](https://github.com/dependabot[bot])
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1046,16 +1046,16 @@ Thanks for all your work!
 
 #### 🐛 Bug Fix
 
-- Add 'Switch to Hypertune' migration guide [#422](https://github.com/haydenbleasel/next-forge/pull/422) ([@SpeedyCoder](https://github.com/SpeedyCoder) [@miraan](https://github.com/miraan))
+- Add 'Switch to Hypertune' migration guide [#422](https://github.com/abdurrahmanse//Boilerplate/pull/422) ([@SpeedyCoder](https://github.com/SpeedyCoder) [@miraan](https://github.com/miraan))
 
 #### ⚠️ Pushed to `main`
 
-- Compress images ([@haydenbleasel](https://github.com/haydenbleasel))
-- Update hypertune.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Compress images ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Update hypertune.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 3
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 - Michal Bock ([@SpeedyCoder](https://github.com/SpeedyCoder))
 - Miraan Tabrez ([@miraan](https://github.com/miraan))
 
@@ -1065,11 +1065,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Bump deps, fix lockfiles ([@haydenbleasel](https://github.com/haydenbleasel))
+- Bump deps, fix lockfiles ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1077,12 +1077,12 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #411 ([@haydenbleasel](https://github.com/haydenbleasel))
-- Bump deps ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #411 ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Bump deps ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1090,12 +1090,12 @@ Thanks for all your work!
 
 #### 🐛 Bug Fix
 
-- Enhance CLI command - Update [#406](https://github.com/haydenbleasel/next-forge/pull/406) ([@carvillanueva](https://github.com/carvillanueva) [@haydenbleasel](https://github.com/haydenbleasel))
+- Enhance CLI command - Update [#406](https://github.com/abdurrahmanse//Boilerplate/pull/406) ([@carvillanueva](https://github.com/carvillanueva) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
 - Carlos Villanueva ([@carvillanueva](https://github.com/carvillanueva))
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1103,12 +1103,12 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Create supportedPackageManagers const ([@haydenbleasel](https://github.com/haydenbleasel))
-- Update initialize.ts ([@haydenbleasel](https://github.com/haydenbleasel))
+- Create supportedPackageManagers const ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Update initialize.ts ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1116,11 +1116,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- For #394 ([@haydenbleasel](https://github.com/haydenbleasel))
+- For #394 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1128,11 +1128,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Update website ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update website ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1140,12 +1140,12 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Misc CLI fixes and improvements ([@haydenbleasel](https://github.com/haydenbleasel))
-- Bump deps ([@haydenbleasel](https://github.com/haydenbleasel))
+- Misc CLI fixes and improvements ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Bump deps ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1153,11 +1153,11 @@ Thanks for all your work!
 
 #### 🐛 Bug Fix
 
-- Upgrade cli [#404](https://github.com/haydenbleasel/next-forge/pull/404) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Upgrade cli [#404](https://github.com/abdurrahmanse//Boilerplate/pull/404) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1165,11 +1165,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Move search package to addon ([@haydenbleasel](https://github.com/haydenbleasel))
+- Move search package to addon ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1177,14 +1177,14 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Merge branch 'main' of https://github.com/haydenbleasel/next-forge ([@haydenbleasel](https://github.com/haydenbleasel))
-- Create basic search package ([@haydenbleasel](https://github.com/haydenbleasel))
-- Update schema.prisma ([@haydenbleasel](https://github.com/haydenbleasel))
-- Fix button hydration issue ([@haydenbleasel](https://github.com/haydenbleasel))
+- Merge branch 'main' of https://github.com/abdurrahmanse//Boilerplate ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Create basic search package ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Update schema.prisma ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Fix button hydration issue ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1192,11 +1192,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Redesign CLI with Ora, fix maxBuffer issue on diff ([@haydenbleasel](https://github.com/haydenbleasel))
+- Redesign CLI with Ora, fix maxBuffer issue on diff ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1204,11 +1204,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Fix typo ([@haydenbleasel](https://github.com/haydenbleasel))
+- Fix typo ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1216,11 +1216,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #394 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #394 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1228,11 +1228,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Simplify run command ([@haydenbleasel](https://github.com/haydenbleasel))
+- Simplify run command ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1240,11 +1240,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Fix typo, update workspace config in root package.json ([@haydenbleasel](https://github.com/haydenbleasel))
+- Fix typo, update workspace config in root package.json ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1252,11 +1252,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Remove CLI defaults, update docs ([@haydenbleasel](https://github.com/haydenbleasel))
+- Remove CLI defaults, update docs ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1264,11 +1264,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Fix exists import typo ([@haydenbleasel](https://github.com/haydenbleasel))
+- Fix exists import typo ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1276,11 +1276,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #402 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #402 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1288,11 +1288,11 @@ Thanks for all your work!
 
 #### 🚀 Enhancement
 
-- 240 setup cli [#344](https://github.com/haydenbleasel/next-forge/pull/344) ([@haydenbleasel](https://github.com/haydenbleasel))
+- 240 setup cli [#344](https://github.com/abdurrahmanse//Boilerplate/pull/344) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1300,11 +1300,11 @@ Thanks for all your work!
 
 #### 🐛 Bug Fix
 
-- add basehub to turbo.json's build outputs, plus reorder toolbar [#401](https://github.com/haydenbleasel/next-forge/pull/401) ([@julianbenegas](https://github.com/julianbenegas) [@haydenbleasel](https://github.com/haydenbleasel))
+- add basehub to turbo.json's build outputs, plus reorder toolbar [#401](https://github.com/abdurrahmanse//Boilerplate/pull/401) ([@julianbenegas](https://github.com/julianbenegas) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 - Julian Benegas ([@julianbenegas](https://github.com/julianbenegas))
 
 ---
@@ -1313,11 +1313,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Restore notification count ([@haydenbleasel](https://github.com/haydenbleasel))
+- Restore notification count ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1325,11 +1325,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Merge provider into models ([@haydenbleasel](https://github.com/haydenbleasel))
+- Merge provider into models ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1337,11 +1337,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Create models file ([@haydenbleasel](https://github.com/haydenbleasel))
+- Create models file ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1349,7 +1349,7 @@ Thanks for all your work!
 
 #### 🐛 Bug Fix
 
-- upgrade basehub + hook up legal pages [#400](https://github.com/haydenbleasel/next-forge/pull/400) ([@julianbenegas](https://github.com/julianbenegas))
+- upgrade basehub + hook up legal pages [#400](https://github.com/abdurrahmanse//Boilerplate/pull/400) ([@julianbenegas](https://github.com/julianbenegas))
 
 #### Authors: 1
 
@@ -1365,11 +1365,11 @@ Thank you, Kuizuo ([@kuizuo](https://github.com/kuizuo)), for all your work!
 
 #### 🐛 Bug Fix
 
-- Imporve document for ESLint configuration [#397](https://github.com/haydenbleasel/next-forge/pull/397) ([@kuizuo](https://github.com/kuizuo) [@haydenbleasel](https://github.com/haydenbleasel))
+- Imporve document for ESLint configuration [#397](https://github.com/abdurrahmanse//Boilerplate/pull/397) ([@kuizuo](https://github.com/kuizuo) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 - Kuizuo ([@kuizuo](https://github.com/kuizuo))
 
 ---
@@ -1378,11 +1378,11 @@ Thank you, Kuizuo ([@kuizuo](https://github.com/kuizuo)), for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #300 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #300 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1390,11 +1390,11 @@ Thank you, Kuizuo ([@kuizuo](https://github.com/kuizuo)), for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- For #389 ([@haydenbleasel](https://github.com/haydenbleasel))
+- For #389 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1402,11 +1402,11 @@ Thank you, Kuizuo ([@kuizuo](https://github.com/kuizuo)), for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- For #394 ([@haydenbleasel](https://github.com/haydenbleasel))
+- For #394 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1414,11 +1414,11 @@ Thank you, Kuizuo ([@kuizuo](https://github.com/kuizuo)), for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- For #394 ([@haydenbleasel](https://github.com/haydenbleasel))
+- For #394 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1426,11 +1426,11 @@ Thank you, Kuizuo ([@kuizuo](https://github.com/kuizuo)), for all your work!
 
 #### 🐛 Bug Fix
 
-- Fix installation for non-pnpm package managers [#395](https://github.com/haydenbleasel/next-forge/pull/395) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Fix installation for non-pnpm package managers [#395](https://github.com/abdurrahmanse//Boilerplate/pull/395) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1438,11 +1438,11 @@ Thank you, Kuizuo ([@kuizuo](https://github.com/kuizuo)), for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Fix typo ([@haydenbleasel](https://github.com/haydenbleasel))
+- Fix typo ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1454,12 +1454,12 @@ Thank you, Carlos Villanueva ([@carvillanueva](https://github.com/carvillanueva)
 
 #### 🐛 Bug Fix
 
-- Adding AI Agent Rules (Cursor + Copilot) [#371](https://github.com/haydenbleasel/next-forge/pull/371) ([@carvillanueva](https://github.com/carvillanueva) [@haydenbleasel](https://github.com/haydenbleasel))
+- Adding AI Agent Rules (Cursor + Copilot) [#371](https://github.com/abdurrahmanse//Boilerplate/pull/371) ([@carvillanueva](https://github.com/carvillanueva) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
 - Carlos Villanueva ([@carvillanueva](https://github.com/carvillanueva))
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1471,11 +1471,11 @@ Thank you, Jeff Everhart ([@JEverhart383](https://github.com/JEverhart383)), for
 
 #### 🚀 Enhancement
 
-- Add Notifications [#161](https://github.com/haydenbleasel/next-forge/pull/161) ([@haydenbleasel](https://github.com/haydenbleasel) [@JEverhart383](https://github.com/JEverhart383))
+- Add Notifications [#161](https://github.com/abdurrahmanse//Boilerplate/pull/161) ([@abdurrahmanse](https://github.com/abdurrahmanse) [@JEverhart383](https://github.com/JEverhart383))
 
 #### Authors: 2
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 - Jeff Everhart ([@JEverhart383](https://github.com/JEverhart383))
 
 ---
@@ -1484,11 +1484,11 @@ Thank you, Jeff Everhart ([@JEverhart383](https://github.com/JEverhart383)), for
 
 #### ⚠️ Pushed to `main`
 
-- Remove unused dep ([@haydenbleasel](https://github.com/haydenbleasel))
+- Remove unused dep ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1496,16 +1496,16 @@ Thank you, Jeff Everhart ([@JEverhart383](https://github.com/JEverhart383)), for
 
 #### ⚠️ Pushed to `main`
 
-- Update shadcn/ui ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update shadcn/ui ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### 🔩 Dependency Updates
 
-- Bump next from 15.1.3 to 15.1.4 in the npm_and_yarn group [#392](https://github.com/haydenbleasel/next-forge/pull/392) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump next from 15.1.3 to 15.1.4 in the npm_and_yarn group [#392](https://github.com/abdurrahmanse//Boilerplate/pull/392) ([@dependabot[bot]](https://github.com/dependabot[bot]))
 
 #### Authors: 2
 
 - [@dependabot[bot]](https://github.com/dependabot[bot])
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1517,7 +1517,7 @@ Thank you, Trevor Pfizenmaier ([@trevorpfiz](https://github.com/trevorpfiz)), fo
 
 #### 🐛 Bug Fix
 
-- Fix: cron jobs must use GET on Vercel [#391](https://github.com/haydenbleasel/next-forge/pull/391) ([@trevorpfiz](https://github.com/trevorpfiz))
+- Fix: cron jobs must use GET on Vercel [#391](https://github.com/abdurrahmanse//Boilerplate/pull/391) ([@trevorpfiz](https://github.com/trevorpfiz))
 
 #### Authors: 1
 
@@ -1529,11 +1529,11 @@ Thank you, Trevor Pfizenmaier ([@trevorpfiz](https://github.com/trevorpfiz)), fo
 
 #### ⚠️ Pushed to `main`
 
-- for #389 ([@haydenbleasel](https://github.com/haydenbleasel))
+- for #389 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1541,11 +1541,11 @@ Thank you, Trevor Pfizenmaier ([@trevorpfiz](https://github.com/trevorpfiz)), fo
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #390 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #390 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1553,11 +1553,11 @@ Thank you, Trevor Pfizenmaier ([@trevorpfiz](https://github.com/trevorpfiz)), fo
 
 #### ⚠️ Pushed to `main`
 
-- Update pnpm-lock.yaml ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update pnpm-lock.yaml ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1565,11 +1565,11 @@ Thank you, Trevor Pfizenmaier ([@trevorpfiz](https://github.com/trevorpfiz)), fo
 
 #### ⚠️ Pushed to `main`
 
-- Bump deps ([@haydenbleasel](https://github.com/haydenbleasel))
+- Bump deps ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1577,11 +1577,11 @@ Thank you, Trevor Pfizenmaier ([@trevorpfiz](https://github.com/trevorpfiz)), fo
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #381 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #381 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1589,11 +1589,11 @@ Thank you, Trevor Pfizenmaier ([@trevorpfiz](https://github.com/trevorpfiz)), fo
 
 #### ⚠️ Pushed to `main`
 
-- Merge commit from fork ([@haydenbleasel](https://github.com/haydenbleasel))
+- Merge commit from fork ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1601,11 +1601,11 @@ Thank you, Trevor Pfizenmaier ([@trevorpfiz](https://github.com/trevorpfiz)), fo
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #386 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #386 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1613,11 +1613,11 @@ Thank you, Trevor Pfizenmaier ([@trevorpfiz](https://github.com/trevorpfiz)), fo
 
 #### ⚠️ Pushed to `main`
 
-- Remove all-contributors ([@haydenbleasel](https://github.com/haydenbleasel))
+- Remove all-contributors ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1625,11 +1625,11 @@ Thank you, Trevor Pfizenmaier ([@trevorpfiz](https://github.com/trevorpfiz)), fo
 
 #### ⚠️ Pushed to `main`
 
-- Update edgedb.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update edgedb.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1641,12 +1641,12 @@ Thank you, Aleksandra ([@beerose](https://github.com/beerose)), for all your wor
 
 #### 🐛 Bug Fix
 
-- Add EdgeDB migration guide [#383](https://github.com/haydenbleasel/next-forge/pull/383) ([@beerose](https://github.com/beerose) [@haydenbleasel](https://github.com/haydenbleasel))
+- Add EdgeDB migration guide [#383](https://github.com/abdurrahmanse//Boilerplate/pull/383) ([@beerose](https://github.com/beerose) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
 - Aleksandra ([@beerose](https://github.com/beerose))
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1654,17 +1654,17 @@ Thank you, Aleksandra ([@beerose](https://github.com/beerose)), for all your wor
 
 #### ⚠️ Pushed to `main`
 
-- Update social.tsx ([@haydenbleasel](https://github.com/haydenbleasel))
-- Resolves #378 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update social.tsx ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Resolves #378 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### 🔩 Dependency Updates
 
-- Bump @types/node from 22.9.4 to 22.10.3 [#380](https://github.com/haydenbleasel/next-forge/pull/380) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @types/node from 22.9.4 to 22.10.3 [#380](https://github.com/abdurrahmanse//Boilerplate/pull/380) ([@dependabot[bot]](https://github.com/dependabot[bot]))
 
 #### Authors: 2
 
 - [@dependabot[bot]](https://github.com/dependabot[bot])
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1672,11 +1672,11 @@ Thank you, Aleksandra ([@beerose](https://github.com/beerose)), for all your wor
 
 #### ⚠️ Pushed to `main`
 
-- Update Stripe API version ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update Stripe API version ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1684,12 +1684,12 @@ Thank you, Aleksandra ([@beerose](https://github.com/beerose)), for all your wor
 
 #### ⚠️ Pushed to `main`
 
-- Use keys for DSN ([@haydenbleasel](https://github.com/haydenbleasel))
-- Fix vitest command ([@haydenbleasel](https://github.com/haydenbleasel))
+- Use keys for DSN ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Fix vitest command ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1697,11 +1697,11 @@ Thank you, Aleksandra ([@beerose](https://github.com/beerose)), for all your wor
 
 #### ⚠️ Pushed to `main`
 
-- Build out stub doc files, update images ([@haydenbleasel](https://github.com/haydenbleasel))
+- Build out stub doc files, update images ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1709,12 +1709,12 @@ Thank you, Aleksandra ([@beerose](https://github.com/beerose)), for all your wor
 
 #### ⚠️ Pushed to `main`
 
-- Fix usage of VERCEL_PROJECT_PRODUCTION_URL ([@haydenbleasel](https://github.com/haydenbleasel))
-- Bump deps ([@haydenbleasel](https://github.com/haydenbleasel))
+- Fix usage of VERCEL_PROJECT_PRODUCTION_URL ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Bump deps ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1722,11 +1722,11 @@ Thank you, Aleksandra ([@beerose](https://github.com/beerose)), for all your wor
 
 #### 💥 Breaking Change
 
-- Composable environment variables [#332](https://github.com/haydenbleasel/next-forge/pull/332) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Composable environment variables [#332](https://github.com/abdurrahmanse//Boilerplate/pull/332) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1734,11 +1734,11 @@ Thank you, Aleksandra ([@beerose](https://github.com/beerose)), for all your wor
 
 #### ⚠️ Pushed to `main`
 
-- Disable git for create-next-app ([@haydenbleasel](https://github.com/haydenbleasel))
+- Disable git for create-next-app ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1746,11 +1746,11 @@ Thank you, Aleksandra ([@beerose](https://github.com/beerose)), for all your wor
 
 #### 🐛 Bug Fix
 
-- Docs - next safe action Addon [#348](https://github.com/haydenbleasel/next-forge/pull/348) ([@pedrocarlo](https://github.com/pedrocarlo) [@haydenbleasel](https://github.com/haydenbleasel))
+- Docs - next safe action Addon [#348](https://github.com/abdurrahmanse//Boilerplate/pull/348) ([@pedrocarlo](https://github.com/pedrocarlo) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 - Pedro Muniz ([@pedrocarlo](https://github.com/pedrocarlo))
 
 ---
@@ -1759,7 +1759,7 @@ Thank you, Aleksandra ([@beerose](https://github.com/beerose)), for all your wor
 
 #### 🐛 Bug Fix
 
-- add info about getting basehub set up in the intstallation doc [#361](https://github.com/haydenbleasel/next-forge/pull/361) ([@julianbenegas](https://github.com/julianbenegas))
+- add info about getting basehub set up in the intstallation doc [#361](https://github.com/abdurrahmanse//Boilerplate/pull/361) ([@julianbenegas](https://github.com/julianbenegas))
 
 #### Authors: 1
 
@@ -1771,11 +1771,11 @@ Thank you, Aleksandra ([@beerose](https://github.com/beerose)), for all your wor
 
 #### ⚠️ Pushed to `main`
 
-- For #359 ([@haydenbleasel](https://github.com/haydenbleasel))
+- For #359 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1787,7 +1787,7 @@ Thank you, Donovan Dikaio ([@dikaio](https://github.com/dikaio)), for all your w
 
 #### 🐛 Bug Fix
 
-- Fix: This fixes the bun install failure when opting for bun [#355](https://github.com/haydenbleasel/next-forge/pull/355) ([@dikaio](https://github.com/dikaio))
+- Fix: This fixes the bun install failure when opting for bun [#355](https://github.com/abdurrahmanse//Boilerplate/pull/355) ([@dikaio](https://github.com/dikaio))
 
 #### Authors: 1
 
@@ -1803,7 +1803,7 @@ Thank you, Mike Keating ([@mikerkeating](https://github.com/mikerkeating)), for 
 
 #### 🐛 Bug Fix
 
-- Change Cron to daily to allow vercel hobby projects [#354](https://github.com/haydenbleasel/next-forge/pull/354) ([@mikerkeating](https://github.com/mikerkeating))
+- Change Cron to daily to allow vercel hobby projects [#354](https://github.com/abdurrahmanse//Boilerplate/pull/354) ([@mikerkeating](https://github.com/mikerkeating))
 
 #### Authors: 1
 
@@ -1815,15 +1815,15 @@ Thank you, Mike Keating ([@mikerkeating](https://github.com/mikerkeating)), for 
 
 #### ⚠️ Pushed to `main`
 
-- Fix format and lint commands ([@haydenbleasel](https://github.com/haydenbleasel))
+- Fix format and lint commands ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### 📝 Documentation
 
-- Add uploadthing migration guide [#353](https://github.com/haydenbleasel/next-forge/pull/353) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Add uploadthing migration guide [#353](https://github.com/abdurrahmanse//Boilerplate/pull/353) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1831,11 +1831,11 @@ Thank you, Mike Keating ([@mikerkeating](https://github.com/mikerkeating)), for 
 
 #### ⚠️ Pushed to `main`
 
-- Move metabase to addons ([@haydenbleasel](https://github.com/haydenbleasel))
+- Move metabase to addons ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1843,13 +1843,13 @@ Thank you, Mike Keating ([@mikerkeating](https://github.com/mikerkeating)), for 
 
 #### ⚠️ Pushed to `main`
 
-- Fix last typos ([@haydenbleasel](https://github.com/haydenbleasel))
-- Fix more typos ([@haydenbleasel](https://github.com/haydenbleasel))
-- Fix typos ([@haydenbleasel](https://github.com/haydenbleasel))
+- Fix last typos ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Fix more typos ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Fix typos ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1857,12 +1857,12 @@ Thank you, Mike Keating ([@mikerkeating](https://github.com/mikerkeating)), for 
 
 #### ⚠️ Pushed to `main`
 
-- Misc fixes ([@haydenbleasel](https://github.com/haydenbleasel))
-- Update better-auth.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Misc fixes ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Update better-auth.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1870,12 +1870,12 @@ Thank you, Mike Keating ([@mikerkeating](https://github.com/mikerkeating)), for 
 
 #### ⚠️ Pushed to `main`
 
-- Attempt to fix Mintlify image issue ([@haydenbleasel](https://github.com/haydenbleasel))
-- Update rate-limiting.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Attempt to fix Mintlify image issue ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Update rate-limiting.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1883,11 +1883,11 @@ Thank you, Mike Keating ([@mikerkeating](https://github.com/mikerkeating)), for 
 
 #### 🚀 Enhancement
 
-- Release 2.21 w/ Rate Limiting package [#349](https://github.com/haydenbleasel/next-forge/pull/349) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Release 2.21 w/ Rate Limiting package [#349](https://github.com/abdurrahmanse//Boilerplate/pull/349) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1899,12 +1899,12 @@ Thank you, Fahreddin Özcan ([@fahreddinozcan](https://github.com/fahreddinozcan
 
 #### 🐛 Bug Fix
 
-- feat: Upstash Redis and Upstash Ratelimit [#328](https://github.com/haydenbleasel/next-forge/pull/328) ([@fahreddinozcan](https://github.com/fahreddinozcan) [@haydenbleasel](https://github.com/haydenbleasel))
+- feat: Upstash Redis and Upstash Ratelimit [#328](https://github.com/abdurrahmanse//Boilerplate/pull/328) ([@fahreddinozcan](https://github.com/fahreddinozcan) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
 - Fahreddin Özcan ([@fahreddinozcan](https://github.com/fahreddinozcan))
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1920,12 +1920,12 @@ Thanks for all your work!
 
 #### 🐛 Bug Fix
 
-- fix: clean tasks needed to be added to turbo.json [#346](https://github.com/haydenbleasel/next-forge/pull/346) ([@pedrocarlo](https://github.com/pedrocarlo))
-- docs: add context to better-auth migration [#347](https://github.com/haydenbleasel/next-forge/pull/347) ([@simon-v-swyftx](https://github.com/simon-v-swyftx))
+- fix: clean tasks needed to be added to turbo.json [#346](https://github.com/abdurrahmanse//Boilerplate/pull/346) ([@pedrocarlo](https://github.com/pedrocarlo))
+- docs: add context to better-auth migration [#347](https://github.com/abdurrahmanse//Boilerplate/pull/347) ([@simon-v-swyftx](https://github.com/simon-v-swyftx))
 
 #### 🔩 Dependency Updates
 
-- Bump zod from 3.24.0 to 3.24.1 in the npm_and_yarn group [#345](https://github.com/haydenbleasel/next-forge/pull/345) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump zod from 3.24.0 to 3.24.1 in the npm_and_yarn group [#345](https://github.com/abdurrahmanse//Boilerplate/pull/345) ([@dependabot[bot]](https://github.com/dependabot[bot]))
 
 #### Authors: 3
 
@@ -1939,11 +1939,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- More images ([@haydenbleasel](https://github.com/haydenbleasel))
+- More images ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1951,16 +1951,16 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Tailwind devDep needed for production dark mode ([@haydenbleasel](https://github.com/haydenbleasel))
+- Tailwind devDep needed for production dark mode ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### 📝 Documentation
 
-- Replace next-secure-headers with Nosecone for security headers [#343](https://github.com/haydenbleasel/next-forge/pull/343) ([@davidmytton](https://github.com/davidmytton) [@haydenbleasel](https://github.com/haydenbleasel))
+- Replace next-secure-headers with Nosecone for security headers [#343](https://github.com/abdurrahmanse//Boilerplate/pull/343) ([@davidmytton](https://github.com/davidmytton) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
 - David Mytton ([@davidmytton](https://github.com/davidmytton))
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1968,11 +1968,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Update index.tsx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update index.tsx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1980,11 +1980,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Redesign splash page ([@haydenbleasel](https://github.com/haydenbleasel))
+- Redesign splash page ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -1992,12 +1992,12 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Update pnpm-lock.yaml ([@haydenbleasel](https://github.com/haydenbleasel))
-- Upgrade to Next.js 15.1 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update pnpm-lock.yaml ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Upgrade to Next.js 15.1 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2005,11 +2005,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Update README.md ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update README.md ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2017,11 +2017,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Upgrade postcss configurations ([@haydenbleasel](https://github.com/haydenbleasel))
+- Upgrade postcss configurations ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2029,11 +2029,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #337 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #337 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2041,11 +2041,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #338 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #338 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2053,7 +2053,7 @@ Thanks for all your work!
 
 #### 🐛 Bug Fix
 
-- Update Drizzle migration documentation [#341](https://github.com/haydenbleasel/next-forge/pull/341) ([@yamz8](https://github.com/yamz8))
+- Update Drizzle migration documentation [#341](https://github.com/abdurrahmanse//Boilerplate/pull/341) ([@yamz8](https://github.com/yamz8))
 
 #### Authors: 1
 
@@ -2065,11 +2065,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #339 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #339 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2077,11 +2077,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Ultracite fixes, for #338 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Ultracite fixes, for #338 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2093,16 +2093,16 @@ Thank you, null[@pedrocarlo](https://github.com/pedrocarlo), for all your work!
 
 #### 🐛 Bug Fix
 
-- Feature: Turborepo generator [#334](https://github.com/haydenbleasel/next-forge/pull/334) ([@pedrocarlo](https://github.com/pedrocarlo))
+- Feature: Turborepo generator [#334](https://github.com/abdurrahmanse//Boilerplate/pull/334) ([@pedrocarlo](https://github.com/pedrocarlo))
 
 #### ⚠️ Pushed to `main`
 
-- Update pnpm-lock.yaml ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update pnpm-lock.yaml ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
 - [@pedrocarlo](https://github.com/pedrocarlo)
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2114,7 +2114,7 @@ Thank you, Simon ([@simon-v-swyftx](https://github.com/simon-v-swyftx)), for all
 
 #### 🐛 Bug Fix
 
-- Chore: cleaner git repo with init and update scripts [#336](https://github.com/haydenbleasel/next-forge/pull/336) ([@simon-v-swyftx](https://github.com/simon-v-swyftx))
+- Chore: cleaner git repo with init and update scripts [#336](https://github.com/abdurrahmanse//Boilerplate/pull/336) ([@simon-v-swyftx](https://github.com/simon-v-swyftx))
 
 #### Authors: 1
 
@@ -2126,11 +2126,11 @@ Thank you, Simon ([@simon-v-swyftx](https://github.com/simon-v-swyftx)), for all
 
 #### ⚠️ Pushed to `main`
 
-- Switch to TUI mode ([@haydenbleasel](https://github.com/haydenbleasel))
+- Switch to TUI mode ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2138,11 +2138,11 @@ Thank you, Simon ([@simon-v-swyftx](https://github.com/simon-v-swyftx)), for all
 
 #### ⚠️ Pushed to `main`
 
-- For #333 ([@haydenbleasel](https://github.com/haydenbleasel))
+- For #333 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2150,11 +2150,11 @@ Thank you, Simon ([@simon-v-swyftx](https://github.com/simon-v-swyftx)), for all
 
 #### ⚠️ Pushed to `main`
 
-- Update mint.json ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update mint.json ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2162,11 +2162,11 @@ Thank you, Simon ([@simon-v-swyftx](https://github.com/simon-v-swyftx)), for all
 
 #### ⚠️ Pushed to `main`
 
-- Start adding documentation images ([@haydenbleasel](https://github.com/haydenbleasel))
+- Start adding documentation images ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2174,11 +2174,11 @@ Thank you, Simon ([@simon-v-swyftx](https://github.com/simon-v-swyftx)), for all
 
 #### ⚠️ Pushed to `main`
 
-- Fix broken links ([@haydenbleasel](https://github.com/haydenbleasel))
+- Fix broken links ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2186,11 +2186,11 @@ Thank you, Simon ([@simon-v-swyftx](https://github.com/simon-v-swyftx)), for all
 
 #### ⚠️ Pushed to `main`
 
-- Update mint.json ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update mint.json ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2198,11 +2198,11 @@ Thank you, Simon ([@simon-v-swyftx](https://github.com/simon-v-swyftx)), for all
 
 #### ⚠️ Pushed to `main`
 
-- Fix redirects ([@haydenbleasel](https://github.com/haydenbleasel))
+- Fix redirects ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2210,11 +2210,11 @@ Thank you, Simon ([@simon-v-swyftx](https://github.com/simon-v-swyftx)), for all
 
 #### ⚠️ Pushed to `main`
 
-- Make Vercel Toolbar optional, for #251 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Make Vercel Toolbar optional, for #251 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2222,15 +2222,15 @@ Thank you, Simon ([@simon-v-swyftx](https://github.com/simon-v-swyftx)), for all
 
 #### 🐛 Bug Fix
 
-- Make application security optional [#327](https://github.com/haydenbleasel/next-forge/pull/327) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Make application security optional [#327](https://github.com/abdurrahmanse//Boilerplate/pull/327) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### 📝 Documentation
 
-- Add Lemon Squeezy guide [#331](https://github.com/haydenbleasel/next-forge/pull/331) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Add Lemon Squeezy guide [#331](https://github.com/abdurrahmanse//Boilerplate/pull/331) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2238,11 +2238,11 @@ Thank you, Simon ([@simon-v-swyftx](https://github.com/simon-v-swyftx)), for all
 
 #### ⚠️ Pushed to `main`
 
-- Rename "Recommended Libraries" to "Addons" ([@haydenbleasel](https://github.com/haydenbleasel))
+- Rename "Recommended Libraries" to "Addons" ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2250,15 +2250,15 @@ Thank you, Simon ([@simon-v-swyftx](https://github.com/simon-v-swyftx)), for all
 
 #### ⚠️ Pushed to `main`
 
-- Add BaseHub as co-author ([@haydenbleasel](https://github.com/haydenbleasel))
+- Add BaseHub as co-author ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### 📝 Documentation
 
-- Tabs [#330](https://github.com/haydenbleasel/next-forge/pull/330) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Tabs [#330](https://github.com/abdurrahmanse//Boilerplate/pull/330) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2266,17 +2266,17 @@ Thank you, Simon ([@simon-v-swyftx](https://github.com/simon-v-swyftx)), for all
 
 #### ⚠️ Pushed to `main`
 
-- Update ai-chatbot.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
-- Update ai.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
-- Export AI components ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update ai-chatbot.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Update ai.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Export AI components ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### 📝 Documentation
 
-- Recipes [#329](https://github.com/haydenbleasel/next-forge/pull/329) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Recipes [#329](https://github.com/abdurrahmanse//Boilerplate/pull/329) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2284,11 +2284,11 @@ Thank you, Simon ([@simon-v-swyftx](https://github.com/simon-v-swyftx)), for all
 
 #### ⚠️ Pushed to `main`
 
-- Update social.tsx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update social.tsx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2296,11 +2296,11 @@ Thank you, Simon ([@simon-v-swyftx](https://github.com/simon-v-swyftx)), for all
 
 #### ⚠️ Pushed to `main`
 
-- Update setup.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update setup.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2308,11 +2308,11 @@ Thank you, Simon ([@simon-v-swyftx](https://github.com/simon-v-swyftx)), for all
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #322 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #322 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2320,17 +2320,17 @@ Thank you, Simon ([@simon-v-swyftx](https://github.com/simon-v-swyftx)), for all
 
 #### 🚀 Enhancement
 
-- New update command [#320](https://github.com/haydenbleasel/next-forge/pull/320) ([@haydenbleasel](https://github.com/haydenbleasel))
+- New update command [#320](https://github.com/abdurrahmanse//Boilerplate/pull/320) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### ⚠️ Pushed to `main`
 
-- Update vercel.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
-- Update docs ([@haydenbleasel](https://github.com/haydenbleasel))
-- For #251 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update vercel.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Update docs ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- For #251 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2338,11 +2338,11 @@ Thank you, Simon ([@simon-v-swyftx](https://github.com/simon-v-swyftx)), for all
 
 #### ⚠️ Pushed to `main`
 
-- Update index.tsx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update index.tsx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2350,11 +2350,11 @@ Thank you, Simon ([@simon-v-swyftx](https://github.com/simon-v-swyftx)), for all
 
 #### ⚠️ Pushed to `main`
 
-- Document CMS environment variable ([@haydenbleasel](https://github.com/haydenbleasel))
+- Document CMS environment variable ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2362,12 +2362,12 @@ Thank you, Simon ([@simon-v-swyftx](https://github.com/simon-v-swyftx)), for all
 
 #### ⚠️ Pushed to `main`
 
-- Update pnpm-lock.yaml ([@haydenbleasel](https://github.com/haydenbleasel))
-- Upgrade to React 19 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update pnpm-lock.yaml ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Upgrade to React 19 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2375,11 +2375,11 @@ Thank you, Simon ([@simon-v-swyftx](https://github.com/simon-v-swyftx)), for all
 
 #### ⚠️ Pushed to `main`
 
-- Misc fixes ([@haydenbleasel](https://github.com/haydenbleasel))
+- Misc fixes ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2387,11 +2387,11 @@ Thank you, Simon ([@simon-v-swyftx](https://github.com/simon-v-swyftx)), for all
 
 #### 🚀 Enhancement
 
-- New CMS package [#325](https://github.com/haydenbleasel/next-forge/pull/325) ([@haydenbleasel](https://github.com/haydenbleasel))
+- New CMS package [#325](https://github.com/abdurrahmanse//Boilerplate/pull/325) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2403,11 +2403,11 @@ Thank you, Julian Benegas ([@julianbenegas](https://github.com/julianbenegas)), 
 
 #### 🐛 Bug Fix
 
-- [wip] basehub docs [#219](https://github.com/haydenbleasel/next-forge/pull/219) ([@julianbenegas](https://github.com/julianbenegas) [@haydenbleasel](https://github.com/haydenbleasel))
+- [wip] basehub docs [#219](https://github.com/abdurrahmanse//Boilerplate/pull/219) ([@julianbenegas](https://github.com/julianbenegas) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 - Julian Benegas ([@julianbenegas](https://github.com/julianbenegas))
 
 ---
@@ -2420,12 +2420,12 @@ Thank you, Fuma Nama ([@fuma-nama](https://github.com/fuma-nama)), for all your 
 
 #### 🐛 Bug Fix
 
-- add Fumadocs guide [#324](https://github.com/haydenbleasel/next-forge/pull/324) ([@fuma-nama](https://github.com/fuma-nama) [@haydenbleasel](https://github.com/haydenbleasel))
+- add Fumadocs guide [#324](https://github.com/abdurrahmanse//Boilerplate/pull/324) ([@fuma-nama](https://github.com/fuma-nama) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
 - Fuma Nama ([@fuma-nama](https://github.com/fuma-nama))
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2433,7 +2433,7 @@ Thank you, Fuma Nama ([@fuma-nama](https://github.com/fuma-nama)), for all your 
 
 #### 🐛 Bug Fix
 
-- Set up storybook tool bar for dark + light mode swap. [#318](https://github.com/haydenbleasel/next-forge/pull/318) ([@Balance8](https://github.com/Balance8))
+- Set up storybook tool bar for dark + light mode swap. [#318](https://github.com/abdurrahmanse//Boilerplate/pull/318) ([@Balance8](https://github.com/Balance8))
 
 #### Authors: 1
 
@@ -2445,15 +2445,15 @@ Thank you, Fuma Nama ([@fuma-nama](https://github.com/fuma-nama)), for all your 
 
 #### 🐛 Bug Fix
 
-- Add ESLint migration doc [#291](https://github.com/haydenbleasel/next-forge/pull/291) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Add ESLint migration doc [#291](https://github.com/abdurrahmanse//Boilerplate/pull/291) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### ⚠️ Pushed to `main`
 
-- Update eslint.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update eslint.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2461,11 +2461,11 @@ Thank you, Fuma Nama ([@fuma-nama](https://github.com/fuma-nama)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Add bump-ui script and a doc on updates ([@haydenbleasel](https://github.com/haydenbleasel))
+- Add bump-ui script and a doc on updates ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2473,11 +2473,11 @@ Thank you, Fuma Nama ([@fuma-nama](https://github.com/fuma-nama)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Update social.tsx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update social.tsx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2485,15 +2485,15 @@ Thank you, Fuma Nama ([@fuma-nama](https://github.com/fuma-nama)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Update mint.json ([@haydenbleasel](https://github.com/haydenbleasel))
-- Merge branch 'main' of https://github.com/haydenbleasel/next-forge ([@haydenbleasel](https://github.com/haydenbleasel))
-- Add Netlify deployment doc ([@haydenbleasel](https://github.com/haydenbleasel))
-- Build fixes ([@haydenbleasel](https://github.com/haydenbleasel))
-- Bump deps ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update mint.json ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Merge branch 'main' of https://github.com/abdurrahmanse//Boilerplate ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Add Netlify deployment doc ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Build fixes ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Bump deps ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2505,15 +2505,15 @@ Thank you, Sergiy Dybskiy ([@sergical](https://github.com/sergical)), for all yo
 
 #### ⚠️ Pushed to `main`
 
-- Redesign splash page hero ([@haydenbleasel](https://github.com/haydenbleasel))
+- Redesign splash page hero ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### 📝 Documentation
 
-- [Docs] Supabase database [#312](https://github.com/haydenbleasel/next-forge/pull/312) ([@sergical](https://github.com/sergical) [@haydenbleasel](https://github.com/haydenbleasel))
+- [Docs] Supabase database [#312](https://github.com/abdurrahmanse//Boilerplate/pull/312) ([@sergical](https://github.com/sergical) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 - Sergiy Dybskiy ([@sergical](https://github.com/sergical))
 
 ---
@@ -2526,20 +2526,20 @@ Thank you, Emmanuel Isenah ([@Armadillidiid](https://github.com/Armadillidiid)),
 
 #### 🐛 Bug Fix
 
-- Improve Grammer in Turso Docs [#319](https://github.com/haydenbleasel/next-forge/pull/319) ([@Armadillidiid](https://github.com/Armadillidiid))
+- Improve Grammer in Turso Docs [#319](https://github.com/abdurrahmanse//Boilerplate/pull/319) ([@Armadillidiid](https://github.com/Armadillidiid))
 
 #### 🔩 Dependency Updates
 
-- Bump @storybook/react from 8.4.5 to 8.4.6 [#301](https://github.com/haydenbleasel/next-forge/pull/301) ([@dependabot[bot]](https://github.com/dependabot[bot]))
-- Bump posthog-node from 4.3.0 to 4.3.1 [#303](https://github.com/haydenbleasel/next-forge/pull/303) ([@dependabot[bot]](https://github.com/dependabot[bot]))
-- Bump class-variance-authority from 0.7.0 to 0.7.1 [#302](https://github.com/haydenbleasel/next-forge/pull/302) ([@dependabot[bot]](https://github.com/dependabot[bot]))
-- Bump posthog-js from 1.188.0 to 1.194.1 [#304](https://github.com/haydenbleasel/next-forge/pull/304) ([@dependabot[bot]](https://github.com/dependabot[bot]))
-- Bump @prisma/client from 5.22.0 to 6.0.0 [#305](https://github.com/haydenbleasel/next-forge/pull/305) ([@dependabot[bot]](https://github.com/dependabot[bot]))
-- Bump @arcjet/next from 1.0.0-alpha.31 to 1.0.0-alpha.33 [#306](https://github.com/haydenbleasel/next-forge/pull/306) ([@dependabot[bot]](https://github.com/dependabot[bot]))
-- Bump fumadocs-core from 14.5.4 to 14.5.5 [#307](https://github.com/haydenbleasel/next-forge/pull/307) ([@dependabot[bot]](https://github.com/dependabot[bot]))
-- Bump undici from 6.21.0 to 7.0.0 [#308](https://github.com/haydenbleasel/next-forge/pull/308) ([@dependabot[bot]](https://github.com/dependabot[bot]))
-- Bump ai from 4.0.4 to 4.0.9 [#309](https://github.com/haydenbleasel/next-forge/pull/309) ([@dependabot[bot]](https://github.com/dependabot[bot]))
-- Bump @storybook/addon-onboarding from 8.4.5 to 8.4.6 [#310](https://github.com/haydenbleasel/next-forge/pull/310) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @storybook/react from 8.4.5 to 8.4.6 [#301](https://github.com/abdurrahmanse//Boilerplate/pull/301) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump posthog-node from 4.3.0 to 4.3.1 [#303](https://github.com/abdurrahmanse//Boilerplate/pull/303) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump class-variance-authority from 0.7.0 to 0.7.1 [#302](https://github.com/abdurrahmanse//Boilerplate/pull/302) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump posthog-js from 1.188.0 to 1.194.1 [#304](https://github.com/abdurrahmanse//Boilerplate/pull/304) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @prisma/client from 5.22.0 to 6.0.0 [#305](https://github.com/abdurrahmanse//Boilerplate/pull/305) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @arcjet/next from 1.0.0-alpha.31 to 1.0.0-alpha.33 [#306](https://github.com/abdurrahmanse//Boilerplate/pull/306) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump fumadocs-core from 14.5.4 to 14.5.5 [#307](https://github.com/abdurrahmanse//Boilerplate/pull/307) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump undici from 6.21.0 to 7.0.0 [#308](https://github.com/abdurrahmanse//Boilerplate/pull/308) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump ai from 4.0.4 to 4.0.9 [#309](https://github.com/abdurrahmanse//Boilerplate/pull/309) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @storybook/addon-onboarding from 8.4.5 to 8.4.6 [#310](https://github.com/abdurrahmanse//Boilerplate/pull/310) ([@dependabot[bot]](https://github.com/dependabot[bot]))
 
 #### Authors: 2
 
@@ -2552,11 +2552,11 @@ Thank you, Emmanuel Isenah ([@Armadillidiid](https://github.com/Armadillidiid)),
 
 #### ⚠️ Pushed to `main`
 
-- Update release.yml ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update release.yml ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2568,7 +2568,7 @@ Thank you, Michael Slocum ([@Balance8](https://github.com/Balance8)), for all yo
 
 #### 🐛 Bug Fix
 
-- Set defaults for Shadcn darkmode in Storybook [#311](https://github.com/haydenbleasel/next-forge/pull/311) ([@Balance8](https://github.com/Balance8))
+- Set defaults for Shadcn darkmode in Storybook [#311](https://github.com/abdurrahmanse//Boilerplate/pull/311) ([@Balance8](https://github.com/Balance8))
 
 #### Authors: 1
 
@@ -2580,11 +2580,11 @@ Thank you, Michael Slocum ([@Balance8](https://github.com/Balance8)), for all yo
 
 #### ⚠️ Pushed to `main`
 
-- Update fonts to match docs ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update fonts to match docs ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2592,7 +2592,7 @@ Thank you, Michael Slocum ([@Balance8](https://github.com/Balance8)), for all yo
 
 #### 🐛 Bug Fix
 
-- fix: Log Arcjet deny reason [#299](https://github.com/haydenbleasel/next-forge/pull/299) ([@davidmytton](https://github.com/davidmytton))
+- fix: Log Arcjet deny reason [#299](https://github.com/abdurrahmanse//Boilerplate/pull/299) ([@davidmytton](https://github.com/davidmytton))
 
 #### Authors: 1
 
@@ -2608,7 +2608,7 @@ Thank you, DaniEnsi ([@DaniEnsi](https://github.com/DaniEnsi)), for all your wor
 
 #### 🐛 Bug Fix
 
-- feat: added missing imports and fixed speeling [#295](https://github.com/haydenbleasel/next-forge/pull/295) ([@DaniEnsi](https://github.com/DaniEnsi))
+- feat: added missing imports and fixed speeling [#295](https://github.com/abdurrahmanse//Boilerplate/pull/295) ([@DaniEnsi](https://github.com/DaniEnsi))
 
 #### Authors: 1
 
@@ -2628,16 +2628,16 @@ Thanks for all your work!
 
 #### 🐛 Bug Fix
 
-- docs: add better-auth guide [#294](https://github.com/haydenbleasel/next-forge/pull/294) ([@Bekacru](https://github.com/Bekacru) [@haydenbleasel](https://github.com/haydenbleasel))
+- docs: add better-auth guide [#294](https://github.com/abdurrahmanse//Boilerplate/pull/294) ([@Bekacru](https://github.com/Bekacru) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### 📝 Documentation
 
-- Added Metabase documentation [#292](https://github.com/haydenbleasel/next-forge/pull/292) ([@matthewhefferon](https://github.com/matthewhefferon) [@haydenbleasel](https://github.com/haydenbleasel))
+- Added Metabase documentation [#292](https://github.com/abdurrahmanse//Boilerplate/pull/292) ([@matthewhefferon](https://github.com/matthewhefferon) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 3
 
 - Bereket Engida ([@Bekacru](https://github.com/Bekacru))
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 - Matthew Hefferon ([@matthewhefferon](https://github.com/matthewhefferon))
 
 ---
@@ -2646,11 +2646,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Update ai.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update ai.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2658,11 +2658,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Create new "Deploying" folder ([@haydenbleasel](https://github.com/haydenbleasel))
+- Create new "Deploying" folder ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2670,11 +2670,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #290 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #290 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2682,11 +2682,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Update pnpm-lock.yaml ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update pnpm-lock.yaml ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2694,11 +2694,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Bump deps ([@haydenbleasel](https://github.com/haydenbleasel))
+- Bump deps ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2706,11 +2706,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Update social.tsx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update social.tsx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2718,11 +2718,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Temporarily revert symlinks due to prod build issue ([@haydenbleasel](https://github.com/haydenbleasel))
+- Temporarily revert symlinks due to prod build issue ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2730,11 +2730,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- For #251 ([@haydenbleasel](https://github.com/haydenbleasel))
+- For #251 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2742,11 +2742,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- For #251 ([@haydenbleasel](https://github.com/haydenbleasel))
+- For #251 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2754,11 +2754,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- For #251 ([@haydenbleasel](https://github.com/haydenbleasel))
+- For #251 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2766,12 +2766,12 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- For #251 ([@haydenbleasel](https://github.com/haydenbleasel))
-- Update svix.ts ([@haydenbleasel](https://github.com/haydenbleasel))
+- For #251 ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Update svix.ts ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2779,7 +2779,7 @@ Thanks for all your work!
 
 #### 🐛 Bug Fix
 
-- feat: Add built-in components for readability [#287](https://github.com/haydenbleasel/next-forge/pull/287) ([@fmerian](https://github.com/fmerian))
+- feat: Add built-in components for readability [#287](https://github.com/abdurrahmanse//Boilerplate/pull/287) ([@fmerian](https://github.com/fmerian))
 
 #### Authors: 1
 
@@ -2791,12 +2791,12 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Update ai.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
-- Fix AI provider snippet ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update ai.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Fix AI provider snippet ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2804,11 +2804,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Improve AI docs ([@haydenbleasel](https://github.com/haydenbleasel))
+- Improve AI docs ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2816,11 +2816,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Update ai.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update ai.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2828,15 +2828,15 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Update mint.json ([@haydenbleasel](https://github.com/haydenbleasel))
-- Merge branch 'main' of https://github.com/haydenbleasel/next-forge ([@haydenbleasel](https://github.com/haydenbleasel))
-- Update .gitignore ([@haydenbleasel](https://github.com/haydenbleasel))
-- Resolves #275 ([@haydenbleasel](https://github.com/haydenbleasel))
-- Resolves #199 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update mint.json ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Merge branch 'main' of https://github.com/abdurrahmanse//Boilerplate ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Update .gitignore ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Resolves #275 ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Resolves #199 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2844,11 +2844,11 @@ Thanks for all your work!
 
 #### 🐛 Bug Fix
 
-- Added env variable NEXT_PUBLIC_API_URL [#245](https://github.com/haydenbleasel/next-forge/pull/245) ([@OsoThevenin](https://github.com/OsoThevenin) [@haydenbleasel](https://github.com/haydenbleasel))
+- Added env variable NEXT_PUBLIC_API_URL [#245](https://github.com/abdurrahmanse//Boilerplate/pull/245) ([@OsoThevenin](https://github.com/OsoThevenin) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 - Pere Bruy ([@OsoThevenin](https://github.com/OsoThevenin))
 
 ---
@@ -2857,11 +2857,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #286, resolves #247 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #286, resolves #247 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2869,11 +2869,11 @@ Thanks for all your work!
 
 #### 🚀 Enhancement
 
-- Symlink environment variables [#285](https://github.com/haydenbleasel/next-forge/pull/285) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Symlink environment variables [#285](https://github.com/abdurrahmanse//Boilerplate/pull/285) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2881,14 +2881,14 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Merge branch 'main' of https://github.com/haydenbleasel/next-forge ([@haydenbleasel](https://github.com/haydenbleasel))
-- Resolves #271 ([@haydenbleasel](https://github.com/haydenbleasel))
-- Resolves #272 ([@haydenbleasel](https://github.com/haydenbleasel))
-- Resolves #280 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Merge branch 'main' of https://github.com/abdurrahmanse//Boilerplate ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Resolves #271 ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Resolves #272 ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Resolves #280 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2896,11 +2896,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Improve Storybook docs ([@haydenbleasel](https://github.com/haydenbleasel))
+- Improve Storybook docs ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2908,11 +2908,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Update mint.json ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update mint.json ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2920,11 +2920,11 @@ Thanks for all your work!
 
 #### 🚀 Enhancement
 
-- Add Storybook [#167](https://github.com/haydenbleasel/next-forge/pull/167) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Add Storybook [#167](https://github.com/abdurrahmanse//Boilerplate/pull/167) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2932,12 +2932,12 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Update mint.json ([@haydenbleasel](https://github.com/haydenbleasel))
-- Update authors.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update mint.json ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Update authors.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2949,7 +2949,7 @@ Thank you, Pierangelo Di Pilato ([@pierDipi](https://github.com/pierDipi)), for 
 
 #### 🐛 Bug Fix
 
-- Minor: fix authjs migration secrets creation command [#281](https://github.com/haydenbleasel/next-forge/pull/281) ([@pierDipi](https://github.com/pierDipi))
+- Minor: fix authjs migration secrets creation command [#281](https://github.com/abdurrahmanse//Boilerplate/pull/281) ([@pierDipi](https://github.com/pierDipi))
 
 #### Authors: 1
 
@@ -2965,7 +2965,7 @@ Thank you, Yanis Vestfalskii ([@yanisneverlies](https://github.com/yanisneverlie
 
 #### 🐛 Bug Fix
 
-- fix: resolve submenu duplication issues by using index as a key [#278](https://github.com/haydenbleasel/next-forge/pull/278) ([@yanisneverlies](https://github.com/yanisneverlies))
+- fix: resolve submenu duplication issues by using index as a key [#278](https://github.com/abdurrahmanse//Boilerplate/pull/278) ([@yanisneverlies](https://github.com/yanisneverlies))
 
 #### Authors: 1
 
@@ -2977,11 +2977,11 @@ Thank you, Yanis Vestfalskii ([@yanisneverlies](https://github.com/yanisneverlie
 
 #### ⚠️ Pushed to `main`
 
-- Attempt to fix Mintlify images again ([@haydenbleasel](https://github.com/haydenbleasel))
+- Attempt to fix Mintlify images again ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -2989,11 +2989,11 @@ Thank you, Yanis Vestfalskii ([@yanisneverlies](https://github.com/yanisneverlie
 
 #### ⚠️ Pushed to `main`
 
-- Temporary Mintlify fix ([@haydenbleasel](https://github.com/haydenbleasel))
+- Temporary Mintlify fix ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3001,15 +3001,15 @@ Thank you, Yanis Vestfalskii ([@yanisneverlies](https://github.com/yanisneverlie
 
 #### ⚠️ Pushed to `main`
 
-- Update social.tsx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update social.tsx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### 📝 Documentation
 
-- Create Auth.js migration guide [#268](https://github.com/haydenbleasel/next-forge/pull/268) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Create Auth.js migration guide [#268](https://github.com/abdurrahmanse//Boilerplate/pull/268) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3017,11 +3017,11 @@ Thank you, Yanis Vestfalskii ([@yanisneverlies](https://github.com/yanisneverlie
 
 #### ⚠️ Pushed to `main`
 
-- Update setup.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update setup.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3029,12 +3029,12 @@ Thank you, Yanis Vestfalskii ([@yanisneverlies](https://github.com/yanisneverlie
 
 #### ⚠️ Pushed to `main`
 
-- Update mint.json ([@haydenbleasel](https://github.com/haydenbleasel))
-- Document header security ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update mint.json ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Document header security ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3042,11 +3042,11 @@ Thank you, Yanis Vestfalskii ([@yanisneverlies](https://github.com/yanisneverlie
 
 #### ⚠️ Pushed to `main`
 
-- For #272 ([@haydenbleasel](https://github.com/haydenbleasel))
+- For #272 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3054,11 +3054,11 @@ Thank you, Yanis Vestfalskii ([@yanisneverlies](https://github.com/yanisneverlie
 
 #### 🐛 Bug Fix
 
-- Add recommended libraries documentation [#270](https://github.com/haydenbleasel/next-forge/pull/270) ([@yamz8](https://github.com/yamz8) [@haydenbleasel](https://github.com/haydenbleasel))
+- Add recommended libraries documentation [#270](https://github.com/abdurrahmanse//Boilerplate/pull/270) ([@yamz8](https://github.com/yamz8) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 - Yam Catzenelson ([@yamz8](https://github.com/yamz8))
 
 ---
@@ -3067,11 +3067,11 @@ Thank you, Yanis Vestfalskii ([@yanisneverlies](https://github.com/yanisneverlie
 
 #### ⚠️ Pushed to `main`
 
-- Update formatting.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update formatting.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3079,11 +3079,11 @@ Thank you, Yanis Vestfalskii ([@yanisneverlies](https://github.com/yanisneverlie
 
 #### ⚠️ Pushed to `main`
 
-- Build fixes ([@haydenbleasel](https://github.com/haydenbleasel))
+- Build fixes ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3091,11 +3091,11 @@ Thank you, Yanis Vestfalskii ([@yanisneverlies](https://github.com/yanisneverlie
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #267 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #267 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3107,12 +3107,12 @@ Thank you, null[@idkgene](https://github.com/idkgene), for all your work!
 
 #### 🐛 Bug Fix
 
-- VSCode workspace configuration [#253](https://github.com/haydenbleasel/next-forge/pull/253) ([@idkgene](https://github.com/idkgene) [@haydenbleasel](https://github.com/haydenbleasel))
+- VSCode workspace configuration [#253](https://github.com/abdurrahmanse//Boilerplate/pull/253) ([@idkgene](https://github.com/idkgene) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
 - [@idkgene](https://github.com/idkgene)
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3120,11 +3120,11 @@ Thank you, null[@idkgene](https://github.com/idkgene), for all your work!
 
 #### 🐛 Bug Fix
 
-- Extract testing configuration into repo/testing package [#182](https://github.com/haydenbleasel/next-forge/pull/182) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Extract testing configuration into repo/testing package [#182](https://github.com/abdurrahmanse//Boilerplate/pull/182) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3132,11 +3132,11 @@ Thank you, null[@idkgene](https://github.com/idkgene), for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Update setup.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update setup.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3144,11 +3144,11 @@ Thank you, null[@idkgene](https://github.com/idkgene), for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Update setup.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update setup.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3156,7 +3156,7 @@ Thank you, null[@idkgene](https://github.com/idkgene), for all your work!
 
 ### Release Notes
 
-#### Collaboration ([#249](https://github.com/haydenbleasel/next-forge/pull/249))
+#### Collaboration ([#249](https://github.com/abdurrahmanse//Boilerplate/pull/249))
 
 - **New Features**
 	- Introduced `AvatarStack` and `Cursors` components for enhanced user presence and cursor tracking in collaborative environments.
@@ -3177,11 +3177,11 @@ Thank you, null[@idkgene](https://github.com/idkgene), for all your work!
 
 #### 🚀 Enhancement
 
-- Collaboration [#249](https://github.com/haydenbleasel/next-forge/pull/249) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Collaboration [#249](https://github.com/abdurrahmanse//Boilerplate/pull/249) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3189,11 +3189,11 @@ Thank you, null[@idkgene](https://github.com/idkgene), for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Update faq.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update faq.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3205,16 +3205,16 @@ Thank you, Kaiden Riley ([@krpleo](https://github.com/krpleo)), for all your wor
 
 #### 🐛 Bug Fix
 
-- fix: sidebar collapsible triggers [#256](https://github.com/haydenbleasel/next-forge/pull/256) ([@krpleo](https://github.com/krpleo))
+- fix: sidebar collapsible triggers [#256](https://github.com/abdurrahmanse//Boilerplate/pull/256) ([@krpleo](https://github.com/krpleo))
 
 #### ⚠️ Pushed to `main`
 
-- Improve shadcn CLI updating ([@haydenbleasel](https://github.com/haydenbleasel))
-- Bump deps ([@haydenbleasel](https://github.com/haydenbleasel))
+- Improve shadcn CLI updating ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Bump deps ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 - Kaiden Riley ([@krpleo](https://github.com/krpleo))
 
 ---
@@ -3227,7 +3227,7 @@ Thank you, Pere Bruy ([@OsoThevenin](https://github.com/OsoThevenin)), for all y
 
 #### 🐛 Bug Fix
 
-- Export PrismaClient in database package [#258](https://github.com/haydenbleasel/next-forge/pull/258) ([@OsoThevenin](https://github.com/OsoThevenin))
+- Export PrismaClient in database package [#258](https://github.com/abdurrahmanse//Boilerplate/pull/258) ([@OsoThevenin](https://github.com/OsoThevenin))
 
 #### Authors: 1
 
@@ -3243,16 +3243,16 @@ Thank you, Dade ([@shengdade](https://github.com/shengdade)), for all your work!
 
 #### 🐛 Bug Fix
 
-- Remove duplicate Tailwind utility classes [#255](https://github.com/haydenbleasel/next-forge/pull/255) ([@shengdade](https://github.com/shengdade))
+- Remove duplicate Tailwind utility classes [#255](https://github.com/abdurrahmanse//Boilerplate/pull/255) ([@shengdade](https://github.com/shengdade))
 
 #### ⚠️ Pushed to `main`
 
-- Update package.json ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update package.json ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
 - Dade ([@shengdade](https://github.com/shengdade))
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3260,11 +3260,11 @@ Thank you, Dade ([@shengdade](https://github.com/shengdade)), for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #260 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #260 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3272,11 +3272,11 @@ Thank you, Dade ([@shengdade](https://github.com/shengdade)), for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Update social.tsx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update social.tsx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3284,12 +3284,12 @@ Thank you, Dade ([@shengdade](https://github.com/shengdade)), for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #184 ([@haydenbleasel](https://github.com/haydenbleasel))
-- Ultracite fixes ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #184 ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Ultracite fixes ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3297,11 +3297,11 @@ Thank you, Dade ([@shengdade](https://github.com/shengdade)), for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #139 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #139 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3313,11 +3313,11 @@ Thank you, Matthew Lewis ([@malewis5](https://github.com/malewis5)), for all you
 
 #### 🐛 Bug Fix
 
-- fix: add sheet title for a11y. [#250](https://github.com/haydenbleasel/next-forge/pull/250) ([@malewis5](https://github.com/malewis5) [@haydenbleasel](https://github.com/haydenbleasel))
+- fix: add sheet title for a11y. [#250](https://github.com/abdurrahmanse//Boilerplate/pull/250) ([@malewis5](https://github.com/malewis5) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 - Matthew Lewis ([@malewis5](https://github.com/malewis5))
 
 ---
@@ -3326,12 +3326,12 @@ Thank you, Matthew Lewis ([@malewis5](https://github.com/malewis5)), for all you
 
 #### ⚠️ Pushed to `main`
 
-- Bump deps, simplify DS icons ([@haydenbleasel](https://github.com/haydenbleasel))
-- Update shadcn/ui ([@haydenbleasel](https://github.com/haydenbleasel))
+- Bump deps, simplify DS icons ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Update shadcn/ui ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3339,11 +3339,11 @@ Thank you, Matthew Lewis ([@malewis5](https://github.com/malewis5)), for all you
 
 #### 🚀 Enhancement
 
-- Turbo [#170](https://github.com/haydenbleasel/next-forge/pull/170) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Turbo [#170](https://github.com/abdurrahmanse//Boilerplate/pull/170) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3351,7 +3351,7 @@ Thank you, Matthew Lewis ([@malewis5](https://github.com/malewis5)), for all you
 
 #### 🐛 Bug Fix
 
-- Add IP geolocation docs [#248](https://github.com/haydenbleasel/next-forge/pull/248) ([@davidmytton](https://github.com/davidmytton))
+- Add IP geolocation docs [#248](https://github.com/abdurrahmanse//Boilerplate/pull/248) ([@davidmytton](https://github.com/davidmytton))
 
 #### Authors: 1
 
@@ -3363,16 +3363,16 @@ Thank you, Matthew Lewis ([@malewis5](https://github.com/malewis5)), for all you
 
 #### ⚠️ Pushed to `main`
 
-- Update social.tsx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update social.tsx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### 📝 Documentation
 
-- Added anti-fraud advice [#237](https://github.com/haydenbleasel/next-forge/pull/237) ([@davidmytton](https://github.com/davidmytton))
+- Added anti-fraud advice [#237](https://github.com/abdurrahmanse//Boilerplate/pull/237) ([@davidmytton](https://github.com/davidmytton))
 
 #### Authors: 2
 
 - David Mytton ([@davidmytton](https://github.com/davidmytton))
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3384,7 +3384,7 @@ Thank you, Michael Zavattaro ([@mzavattaro](https://github.com/mzavattaro)), for
 
 #### 🐛 Bug Fix
 
-- Update location of .env file in directory docs [#241](https://github.com/haydenbleasel/next-forge/pull/241) ([@mzavattaro](https://github.com/mzavattaro))
+- Update location of .env file in directory docs [#241](https://github.com/abdurrahmanse//Boilerplate/pull/241) ([@mzavattaro](https://github.com/mzavattaro))
 
 #### Authors: 1
 
@@ -3396,11 +3396,11 @@ Thank you, Michael Zavattaro ([@mzavattaro](https://github.com/mzavattaro)), for
 
 #### ⚠️ Pushed to `main`
 
-- Bump deps ([@haydenbleasel](https://github.com/haydenbleasel))
+- Bump deps ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3408,11 +3408,11 @@ Thank you, Michael Zavattaro ([@mzavattaro](https://github.com/mzavattaro)), for
 
 #### ⚠️ Pushed to `main`
 
-- Fix SVIX_TOKEN deploy issue ([@haydenbleasel](https://github.com/haydenbleasel))
+- Fix SVIX_TOKEN deploy issue ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3420,11 +3420,11 @@ Thank you, Michael Zavattaro ([@mzavattaro](https://github.com/mzavattaro)), for
 
 #### ⚠️ Pushed to `main`
 
-- Update deploying.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update deploying.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3432,11 +3432,11 @@ Thank you, Michael Zavattaro ([@mzavattaro](https://github.com/mzavattaro)), for
 
 #### ⚠️ Pushed to `main`
 
-- Update deploying.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update deploying.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3444,11 +3444,11 @@ Thank you, Michael Zavattaro ([@mzavattaro](https://github.com/mzavattaro)), for
 
 #### ⚠️ Pushed to `main`
 
-- Add Vercel marketplace link ([@haydenbleasel](https://github.com/haydenbleasel))
+- Add Vercel marketplace link ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3456,11 +3456,11 @@ Thank you, Michael Zavattaro ([@mzavattaro](https://github.com/mzavattaro)), for
 
 #### ⚠️ Pushed to `main`
 
-- Add Vercel deploy button ([@haydenbleasel](https://github.com/haydenbleasel))
+- Add Vercel deploy button ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3468,11 +3468,11 @@ Thank you, Michael Zavattaro ([@mzavattaro](https://github.com/mzavattaro)), for
 
 #### ⚠️ Pushed to `main`
 
-- Update setup.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update setup.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3480,11 +3480,11 @@ Thank you, Michael Zavattaro ([@mzavattaro](https://github.com/mzavattaro)), for
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #238, resolves #234 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #238, resolves #234 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3492,11 +3492,11 @@ Thank you, Michael Zavattaro ([@mzavattaro](https://github.com/mzavattaro)), for
 
 #### ⚠️ Pushed to `main`
 
-- For #234 ([@haydenbleasel](https://github.com/haydenbleasel))
+- For #234 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3504,11 +3504,11 @@ Thank you, Michael Zavattaro ([@mzavattaro](https://github.com/mzavattaro)), for
 
 #### ⚠️ Pushed to `main`
 
-- For #234 ([@haydenbleasel](https://github.com/haydenbleasel))
+- For #234 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3516,11 +3516,11 @@ Thank you, Michael Zavattaro ([@mzavattaro](https://github.com/mzavattaro)), for
 
 #### ⚠️ Pushed to `main`
 
-- For #234 ([@haydenbleasel](https://github.com/haydenbleasel))
+- For #234 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3528,11 +3528,11 @@ Thank you, Michael Zavattaro ([@mzavattaro](https://github.com/mzavattaro)), for
 
 #### ⚠️ Pushed to `main`
 
-- Update social.tsx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update social.tsx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3544,13 +3544,13 @@ Thank you, Anthony Shew ([@anthonyshew](https://github.com/anthonyshew)), for al
 
 #### 🐛 Bug Fix
 
-- Update `turbo.json` to improve cache hit ratios [#235](https://github.com/haydenbleasel/next-forge/pull/235) ([@anthonyshew](https://github.com/anthonyshew) [@haydenbleasel](https://github.com/haydenbleasel))
-- Remove root tsconfig.json [#236](https://github.com/haydenbleasel/next-forge/pull/236) ([@anthonyshew](https://github.com/anthonyshew))
+- Update `turbo.json` to improve cache hit ratios [#235](https://github.com/abdurrahmanse//Boilerplate/pull/235) ([@anthonyshew](https://github.com/anthonyshew) [@abdurrahmanse](https://github.com/abdurrahmanse))
+- Remove root tsconfig.json [#236](https://github.com/abdurrahmanse//Boilerplate/pull/236) ([@anthonyshew](https://github.com/anthonyshew))
 
 #### Authors: 2
 
 - Anthony Shew ([@anthonyshew](https://github.com/anthonyshew))
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3562,12 +3562,12 @@ Thank you, null[@svix-lucho](https://github.com/svix-lucho), for all your work!
 
 #### 🚀 Enhancement
 
-- Add Svix Webhooks [#212](https://github.com/haydenbleasel/next-forge/pull/212) ([@svix-lucho](https://github.com/svix-lucho) [@haydenbleasel](https://github.com/haydenbleasel))
+- Add Svix Webhooks [#212](https://github.com/abdurrahmanse//Boilerplate/pull/212) ([@svix-lucho](https://github.com/svix-lucho) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
 - [@svix-lucho](https://github.com/svix-lucho)
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3575,7 +3575,7 @@ Thank you, null[@svix-lucho](https://github.com/svix-lucho), for all your work!
 
 #### 🐛 Bug Fix
 
-- Adjust Arcjet middleware to allow monitoring & expand docs [#231](https://github.com/haydenbleasel/next-forge/pull/231) ([@davidmytton](https://github.com/davidmytton))
+- Adjust Arcjet middleware to allow monitoring & expand docs [#231](https://github.com/abdurrahmanse//Boilerplate/pull/231) ([@davidmytton](https://github.com/davidmytton))
 
 #### Authors: 1
 
@@ -3591,8 +3591,8 @@ Thank you, David Mytton ([@davidmytton](https://github.com/davidmytton)), for al
 
 #### 🐛 Bug Fix
 
-- List the required accounts in setup [#229](https://github.com/haydenbleasel/next-forge/pull/229) ([@davidmytton](https://github.com/davidmytton))
-- Update drizzle.mdx [#230](https://github.com/haydenbleasel/next-forge/pull/230) ([@yamz8](https://github.com/yamz8))
+- List the required accounts in setup [#229](https://github.com/abdurrahmanse//Boilerplate/pull/229) ([@davidmytton](https://github.com/davidmytton))
+- Update drizzle.mdx [#230](https://github.com/abdurrahmanse//Boilerplate/pull/230) ([@yamz8](https://github.com/yamz8))
 
 #### Authors: 2
 
@@ -3605,11 +3605,11 @@ Thank you, David Mytton ([@davidmytton](https://github.com/davidmytton)), for al
 
 #### ⚠️ Pushed to `main`
 
-- Update vitest.config.ts ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update vitest.config.ts ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3617,11 +3617,11 @@ Thank you, David Mytton ([@davidmytton](https://github.com/davidmytton)), for al
 
 #### ⚠️ Pushed to `main`
 
-- Update social.tsx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update social.tsx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3629,11 +3629,11 @@ Thank you, David Mytton ([@davidmytton](https://github.com/davidmytton)), for al
 
 #### ⚠️ Pushed to `main`
 
-- Create pull_request_template.md ([@haydenbleasel](https://github.com/haydenbleasel))
+- Create pull_request_template.md ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3641,11 +3641,11 @@ Thank you, David Mytton ([@davidmytton](https://github.com/davidmytton)), for al
 
 #### ⚠️ Pushed to `main`
 
-- Update issue templates ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update issue templates ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3653,11 +3653,11 @@ Thank you, David Mytton ([@davidmytton](https://github.com/davidmytton)), for al
 
 #### ⚠️ Pushed to `main`
 
-- Update social.tsx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update social.tsx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3665,11 +3665,11 @@ Thank you, David Mytton ([@davidmytton](https://github.com/davidmytton)), for al
 
 #### ⚠️ Pushed to `main`
 
-- Expose Clerk components from auth package ([@haydenbleasel](https://github.com/haydenbleasel))
+- Expose Clerk components from auth package ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3677,13 +3677,13 @@ Thank you, David Mytton ([@davidmytton](https://github.com/davidmytton)), for al
 
 #### ⚠️ Pushed to `main`
 
-- Fix authors styling ([@haydenbleasel](https://github.com/haydenbleasel))
-- Fix author images ([@haydenbleasel](https://github.com/haydenbleasel))
-- Bump deps ([@haydenbleasel](https://github.com/haydenbleasel))
+- Fix authors styling ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Fix author images ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Bump deps ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3695,11 +3695,11 @@ Thank you, Jamie Barton ([@notrab](https://github.com/notrab)), for all your wor
 
 #### 🐛 Bug Fix
 
-- feat: add turso guide [#226](https://github.com/haydenbleasel/next-forge/pull/226) ([@notrab](https://github.com/notrab) [@haydenbleasel](https://github.com/haydenbleasel))
+- feat: add turso guide [#226](https://github.com/abdurrahmanse//Boilerplate/pull/226) ([@notrab](https://github.com/notrab) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 - Jamie Barton ([@notrab](https://github.com/notrab))
 
 ---
@@ -3708,11 +3708,11 @@ Thank you, Jamie Barton ([@notrab](https://github.com/notrab)), for all your wor
 
 #### ⚠️ Pushed to `main`
 
-- For #222 ([@haydenbleasel](https://github.com/haydenbleasel))
+- For #222 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3720,11 +3720,11 @@ Thank you, Jamie Barton ([@notrab](https://github.com/notrab)), for all your wor
 
 #### ⚠️ Pushed to `main`
 
-- For #222 ([@haydenbleasel](https://github.com/haydenbleasel))
+- For #222 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3732,11 +3732,11 @@ Thank you, Jamie Barton ([@notrab](https://github.com/notrab)), for all your wor
 
 #### 🐛 Bug Fix
 
-- Finish extracting arcjet package [#221](https://github.com/haydenbleasel/next-forge/pull/221) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Finish extracting arcjet package [#221](https://github.com/abdurrahmanse//Boilerplate/pull/221) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3748,7 +3748,7 @@ Thank you, Christian Leonardo ([@whyleonardo](https://github.com/whyleonardo)), 
 
 #### 🐛 Bug Fix
 
-- Fix fetch status response error check condition [#217](https://github.com/haydenbleasel/next-forge/pull/217) ([@whyleonardo](https://github.com/whyleonardo))
+- Fix fetch status response error check condition [#217](https://github.com/abdurrahmanse//Boilerplate/pull/217) ([@whyleonardo](https://github.com/whyleonardo))
 
 #### Authors: 1
 
@@ -3760,11 +3760,11 @@ Thank you, Christian Leonardo ([@whyleonardo](https://github.com/whyleonardo)), 
 
 #### ⚠️ Pushed to `main`
 
-- Misc fixes ([@haydenbleasel](https://github.com/haydenbleasel))
+- Misc fixes ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3772,11 +3772,11 @@ Thank you, Christian Leonardo ([@whyleonardo](https://github.com/whyleonardo)), 
 
 #### ⚠️ Pushed to `main`
 
-- Update social.tsx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update social.tsx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3784,11 +3784,11 @@ Thank you, Christian Leonardo ([@whyleonardo](https://github.com/whyleonardo)), 
 
 #### ⚠️ Pushed to `main`
 
-- Simplify authors data ([@haydenbleasel](https://github.com/haydenbleasel))
+- Simplify authors data ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3796,11 +3796,11 @@ Thank you, Christian Leonardo ([@whyleonardo](https://github.com/whyleonardo)), 
 
 #### ⚠️ Pushed to `main`
 
-- Create CODE_OF_CONDUCT.md ([@haydenbleasel](https://github.com/haydenbleasel))
+- Create CODE_OF_CONDUCT.md ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3808,7 +3808,7 @@ Thank you, Christian Leonardo ([@whyleonardo](https://github.com/whyleonardo)), 
 
 #### 🐛 Bug Fix
 
-- Update `mint.json` [#216](https://github.com/haydenbleasel/next-forge/pull/216) ([@fmerian](https://github.com/fmerian))
+- Update `mint.json` [#216](https://github.com/abdurrahmanse//Boilerplate/pull/216) ([@fmerian](https://github.com/fmerian))
 
 #### Authors: 1
 
@@ -3820,12 +3820,12 @@ Thank you, Christian Leonardo ([@whyleonardo](https://github.com/whyleonardo)), 
 
 #### 🐛 Bug Fix
 
-- Add Documentation section to docs [#214](https://github.com/haydenbleasel/next-forge/pull/214) ([@fmerian](https://github.com/fmerian) [@haydenbleasel](https://github.com/haydenbleasel))
+- Add Documentation section to docs [#214](https://github.com/abdurrahmanse//Boilerplate/pull/214) ([@fmerian](https://github.com/fmerian) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
 - flo merian ([@fmerian](https://github.com/fmerian))
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3833,11 +3833,11 @@ Thank you, Christian Leonardo ([@whyleonardo](https://github.com/whyleonardo)), 
 
 #### 🚀 Enhancement
 
-- V2.13 [#215](https://github.com/haydenbleasel/next-forge/pull/215) ([@haydenbleasel](https://github.com/haydenbleasel))
+- V2.13 [#215](https://github.com/abdurrahmanse//Boilerplate/pull/215) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3845,12 +3845,12 @@ Thank you, Christian Leonardo ([@whyleonardo](https://github.com/whyleonardo)), 
 
 #### 🐛 Bug Fix
 
-- Fix `.font` instructions in docs app [#213](https://github.com/haydenbleasel/next-forge/pull/213) ([@fmerian](https://github.com/fmerian) [@haydenbleasel](https://github.com/haydenbleasel))
+- Fix `.font` instructions in docs app [#213](https://github.com/abdurrahmanse//Boilerplate/pull/213) ([@fmerian](https://github.com/fmerian) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
 - flo merian ([@fmerian](https://github.com/fmerian))
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3858,11 +3858,11 @@ Thank you, Christian Leonardo ([@whyleonardo](https://github.com/whyleonardo)), 
 
 #### ⚠️ Pushed to `main`
 
-- Update social.tsx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update social.tsx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3874,7 +3874,7 @@ Thank you, jcchrrr ([@jcchrrr](https://github.com/jcchrrr)), for all your work!
 
 #### 🐛 Bug Fix
 
-- fix: vscode settings, tailwind config location [#211](https://github.com/haydenbleasel/next-forge/pull/211) ([@jcchrrr](https://github.com/jcchrrr))
+- fix: vscode settings, tailwind config location [#211](https://github.com/abdurrahmanse//Boilerplate/pull/211) ([@jcchrrr](https://github.com/jcchrrr))
 
 #### Authors: 1
 
@@ -3886,13 +3886,13 @@ Thank you, jcchrrr ([@jcchrrr](https://github.com/jcchrrr)), for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Compress icons ([@haydenbleasel](https://github.com/haydenbleasel))
-- Responsive fixes ([@haydenbleasel](https://github.com/haydenbleasel))
-- Add X link ([@haydenbleasel](https://github.com/haydenbleasel))
+- Compress icons ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Responsive fixes ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Add X link ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3900,11 +3900,11 @@ Thank you, jcchrrr ([@jcchrrr](https://github.com/jcchrrr)), for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Update social.tsx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update social.tsx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3912,11 +3912,11 @@ Thank you, jcchrrr ([@jcchrrr](https://github.com/jcchrrr)), for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Update CONTRIBUTING.md ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update CONTRIBUTING.md ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3924,12 +3924,12 @@ Thank you, jcchrrr ([@jcchrrr](https://github.com/jcchrrr)), for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Move security file to github folder ([@haydenbleasel](https://github.com/haydenbleasel))
-- Create CONTRIBUTING.md ([@haydenbleasel](https://github.com/haydenbleasel))
+- Move security file to github folder ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Create CONTRIBUTING.md ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3937,7 +3937,7 @@ Thank you, jcchrrr ([@jcchrrr](https://github.com/jcchrrr)), for all your work!
 
 #### 🐛 Bug Fix
 
-- Include database scaffolding step in setup instructions [#208](https://github.com/haydenbleasel/next-forge/pull/208) ([@paulgrieselhuber](https://github.com/paulgrieselhuber))
+- Include database scaffolding step in setup instructions [#208](https://github.com/abdurrahmanse//Boilerplate/pull/208) ([@paulgrieselhuber](https://github.com/paulgrieselhuber))
 
 #### Authors: 1
 
@@ -3953,7 +3953,7 @@ Thank you, Paul Grieselhuber ([@paulgrieselhuber](https://github.com/paulgriesel
 
 #### 🐛 Bug Fix
 
-- Include necessary global env vars for turbo.json to allow Vercel builds [#206](https://github.com/haydenbleasel/next-forge/pull/206) ([@paulgrieselhuber](https://github.com/paulgrieselhuber))
+- Include necessary global env vars for turbo.json to allow Vercel builds [#206](https://github.com/abdurrahmanse//Boilerplate/pull/206) ([@paulgrieselhuber](https://github.com/paulgrieselhuber))
 
 #### Authors: 1
 
@@ -3965,14 +3965,14 @@ Thank you, Paul Grieselhuber ([@paulgrieselhuber](https://github.com/paulgriesel
 
 #### ⚠️ Pushed to `main`
 
-- Merge branch 'main' of https://github.com/haydenbleasel/next-forge ([@haydenbleasel](https://github.com/haydenbleasel))
-- Add socials to homepage ([@haydenbleasel](https://github.com/haydenbleasel))
-- Update layout.tsx ([@haydenbleasel](https://github.com/haydenbleasel))
-- Load Geist from Google Fonts ([@haydenbleasel](https://github.com/haydenbleasel))
+- Merge branch 'main' of https://github.com/abdurrahmanse//Boilerplate ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Add socials to homepage ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Update layout.tsx ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Load Geist from Google Fonts ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -3984,7 +3984,7 @@ Thank you, null[@000-KunalPal](https://github.com/000-KunalPal), for all your wo
 
 #### 🐛 Bug Fix
 
-- fix: Remove duplicate "is" in text [#205](https://github.com/haydenbleasel/next-forge/pull/205) ([@000-KunalPal](https://github.com/000-KunalPal))
+- fix: Remove duplicate "is" in text [#205](https://github.com/abdurrahmanse//Boilerplate/pull/205) ([@000-KunalPal](https://github.com/000-KunalPal))
 
 #### Authors: 1
 
@@ -4000,11 +4000,11 @@ Thank you, Yam Catzenelson ([@yamz8](https://github.com/yamz8)), for all your wo
 
 #### 🐛 Bug Fix
 
-- Update README.md [#204](https://github.com/haydenbleasel/next-forge/pull/204) ([@yamz8](https://github.com/yamz8) [@haydenbleasel](https://github.com/haydenbleasel))
+- Update README.md [#204](https://github.com/abdurrahmanse//Boilerplate/pull/204) ([@yamz8](https://github.com/yamz8) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 - Yam Catzenelson ([@yamz8](https://github.com/yamz8))
 
 ---
@@ -4013,12 +4013,12 @@ Thank you, Yam Catzenelson ([@yamz8](https://github.com/yamz8)), for all your wo
 
 #### ⚠️ Pushed to `main`
 
-- Update prisma-postgres.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
-- Create new SEO docs category ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update prisma-postgres.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Create new SEO docs category ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4026,11 +4026,11 @@ Thank you, Yam Catzenelson ([@yamz8](https://github.com/yamz8)), for all your wo
 
 #### ⚠️ Pushed to `main`
 
-- Update pnpm-lock.yaml ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update pnpm-lock.yaml ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4038,13 +4038,13 @@ Thank you, Yam Catzenelson ([@yamz8](https://github.com/yamz8)), for all your wo
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #202 ([@haydenbleasel](https://github.com/haydenbleasel))
-- Resolves #201 ([@haydenbleasel](https://github.com/haydenbleasel))
-- Bump deps, add clerk/next to web ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #202 ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Resolves #201 ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Bump deps, add clerk/next to web ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4052,11 +4052,11 @@ Thank you, Yam Catzenelson ([@yamz8](https://github.com/yamz8)), for all your wo
 
 #### ⚠️ Pushed to `main`
 
-- Update packages.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update packages.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4064,14 +4064,14 @@ Thank you, Yam Catzenelson ([@yamz8](https://github.com/yamz8)), for all your wo
 
 #### ⚠️ Pushed to `main`
 
-- Merge repo/status into repo/observability ([@haydenbleasel](https://github.com/haydenbleasel))
-- Create "Observability" group ([@haydenbleasel](https://github.com/haydenbleasel))
-- Break up structure pages ([@haydenbleasel](https://github.com/haydenbleasel))
-- Shorten guide names ([@haydenbleasel](https://github.com/haydenbleasel))
+- Merge repo/status into repo/observability ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Create "Observability" group ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Break up structure pages ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Shorten guide names ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4079,11 +4079,11 @@ Thank you, Yam Catzenelson ([@yamz8](https://github.com/yamz8)), for all your wo
 
 #### ⚠️ Pushed to `main`
 
-- Fix broken links ([@haydenbleasel](https://github.com/haydenbleasel))
+- Fix broken links ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4095,16 +4095,16 @@ Thank you, flo merian ([@fmerian](https://github.com/fmerian)), for all your wor
 
 #### ⚠️ Pushed to `main`
 
-- Misc cleanup ([@haydenbleasel](https://github.com/haydenbleasel))
+- Misc cleanup ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### 📝 Documentation
 
-- Switch docs to Mintlify [#197](https://github.com/haydenbleasel/next-forge/pull/197) ([@fmerian](https://github.com/fmerian) [@haydenbleasel](https://github.com/haydenbleasel))
+- Switch docs to Mintlify [#197](https://github.com/abdurrahmanse//Boilerplate/pull/197) ([@fmerian](https://github.com/fmerian) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
 - flo merian ([@fmerian](https://github.com/fmerian))
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4112,11 +4112,11 @@ Thank you, flo merian ([@fmerian](https://github.com/fmerian)), for all your wor
 
 #### 🚀 Enhancement
 
-- 198 improve package isolation [#200](https://github.com/haydenbleasel/next-forge/pull/200) ([@haydenbleasel](https://github.com/haydenbleasel))
+- 198 improve package isolation [#200](https://github.com/abdurrahmanse//Boilerplate/pull/200) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4124,11 +4124,11 @@ Thank you, flo merian ([@fmerian](https://github.com/fmerian)), for all your wor
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #195 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #195 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4136,11 +4136,11 @@ Thank you, flo merian ([@fmerian](https://github.com/fmerian)), for all your wor
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #193 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #193 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4148,11 +4148,11 @@ Thank you, flo merian ([@fmerian](https://github.com/fmerian)), for all your wor
 
 #### ⚠️ Pushed to `main`
 
-- Update attribution.tsx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update attribution.tsx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4160,14 +4160,14 @@ Thank you, flo merian ([@fmerian](https://github.com/fmerian)), for all your wor
 
 #### ⚠️ Pushed to `main`
 
-- Merge branch 'main' of https://github.com/haydenbleasel/next-forge ([@haydenbleasel](https://github.com/haydenbleasel))
-- Redesign hero ([@haydenbleasel](https://github.com/haydenbleasel))
-- Update installer.tsx ([@haydenbleasel](https://github.com/haydenbleasel))
-- Add logo.dev attribution ([@haydenbleasel](https://github.com/haydenbleasel))
+- Merge branch 'main' of https://github.com/abdurrahmanse//Boilerplate ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Redesign hero ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Update installer.tsx ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Add logo.dev attribution ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4175,11 +4175,11 @@ Thank you, flo merian ([@fmerian](https://github.com/fmerian)), for all your wor
 
 #### ⚠️ Pushed to `main`
 
-- Rework database / orm docs ([@haydenbleasel](https://github.com/haydenbleasel))
+- Rework database / orm docs ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4187,16 +4187,16 @@ Thank you, flo merian ([@fmerian](https://github.com/fmerian)), for all your wor
 
 #### ⚠️ Pushed to `main`
 
-- Update security.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
-- Add Windows support ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update security.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Add Windows support ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### 📝 Documentation
 
-- Co-author: Drizzle [#168](https://github.com/haydenbleasel/next-forge/pull/168) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Co-author: Drizzle [#168](https://github.com/abdurrahmanse//Boilerplate/pull/168) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4214,20 +4214,20 @@ Thanks for all your work!
 
 #### 🚀 Enhancement
 
-- feat: Add Arcjet security [#187](https://github.com/haydenbleasel/next-forge/pull/187) ([@davidmytton](https://github.com/davidmytton) [@haydenbleasel](https://github.com/haydenbleasel))
+- feat: Add Arcjet security [#187](https://github.com/abdurrahmanse//Boilerplate/pull/187) ([@davidmytton](https://github.com/davidmytton) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### 🐛 Bug Fix
 
-- chore(windows_setup): add windows setup script [#196](https://github.com/haydenbleasel/next-forge/pull/196) ([@ktfth](https://github.com/ktfth))
+- chore(windows_setup): add windows setup script [#196](https://github.com/abdurrahmanse//Boilerplate/pull/196) ([@ktfth](https://github.com/ktfth))
 
 #### 📝 Documentation
 
-- add docs for switching to Prisma Postgres [#192](https://github.com/haydenbleasel/next-forge/pull/192) ([@nikolasburk](https://github.com/nikolasburk))
+- add docs for switching to Prisma Postgres [#192](https://github.com/abdurrahmanse//Boilerplate/pull/192) ([@nikolasburk](https://github.com/nikolasburk))
 
 #### Authors: 4
 
 - David Mytton ([@davidmytton](https://github.com/davidmytton))
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 - Kaique da Silva ([@ktfth](https://github.com/ktfth))
 - Nikolas ([@nikolasburk](https://github.com/nikolasburk))
 
@@ -4237,11 +4237,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #180 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #180 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4249,11 +4249,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- For #180 ([@haydenbleasel](https://github.com/haydenbleasel))
+- For #180 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4261,14 +4261,14 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Build fixes ([@haydenbleasel](https://github.com/haydenbleasel))
-- Bump deps ([@haydenbleasel](https://github.com/haydenbleasel))
-- Use latest create-next-app ([@haydenbleasel](https://github.com/haydenbleasel))
-- Update setup.sh ([@haydenbleasel](https://github.com/haydenbleasel))
+- Build fixes ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Bump deps ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Use latest create-next-app ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Update setup.sh ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4276,11 +4276,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #175 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #175 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4288,11 +4288,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #185 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #185 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4300,11 +4300,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #186 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #186 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4312,11 +4312,11 @@ Thanks for all your work!
 
 #### ⚠️ Pushed to `main`
 
-- Add Apple icons ([@haydenbleasel](https://github.com/haydenbleasel))
+- Add Apple icons ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4328,16 +4328,16 @@ Thank you, Alfredo José ([@fredojbg](https://github.com/fredojbg)), for all you
 
 #### 🐛 Bug Fix
 
-- feat: add repo/env to app [#188](https://github.com/haydenbleasel/next-forge/pull/188) ([@fredojbg](https://github.com/fredojbg) [@haydenbleasel](https://github.com/haydenbleasel))
+- feat: add repo/env to app [#188](https://github.com/abdurrahmanse//Boilerplate/pull/188) ([@fredojbg](https://github.com/fredojbg) [@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #183 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #183 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 2
 
 - Alfredo José ([@fredojbg](https://github.com/fredojbg))
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4345,11 +4345,11 @@ Thank you, Alfredo José ([@fredojbg](https://github.com/fredojbg)), for all you
 
 #### 🐛 Bug Fix
 
-- Misc enhancements [#181](https://github.com/haydenbleasel/next-forge/pull/181) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Misc enhancements [#181](https://github.com/abdurrahmanse//Boilerplate/pull/181) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4357,11 +4357,11 @@ Thank you, Alfredo José ([@fredojbg](https://github.com/fredojbg)), for all you
 
 #### ⚠️ Pushed to `main`
 
-- Update github-button.tsx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update github-button.tsx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4369,11 +4369,11 @@ Thank you, Alfredo José ([@fredojbg](https://github.com/fredojbg)), for all you
 
 #### 🚀 Enhancement
 
-- 157 improve env var handling [#171](https://github.com/haydenbleasel/next-forge/pull/171) ([@haydenbleasel](https://github.com/haydenbleasel))
+- 157 improve env var handling [#171](https://github.com/abdurrahmanse//Boilerplate/pull/171) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4385,7 +4385,7 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### 🐛 Bug Fix
 
-- Add CodeRabbit AI Code Review Integration [#172](https://github.com/haydenbleasel/next-forge/pull/172) ([@tyaga001](https://github.com/tyaga001))
+- Add CodeRabbit AI Code Review Integration [#172](https://github.com/abdurrahmanse//Boilerplate/pull/172) ([@tyaga001](https://github.com/tyaga001))
 
 #### Authors: 1
 
@@ -4397,11 +4397,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Resolves #169 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #169 ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4409,12 +4409,12 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Update README.md ([@haydenbleasel](https://github.com/haydenbleasel))
-- Update setup.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update README.md ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Update setup.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4422,11 +4422,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Update index.js ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update index.js ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4434,11 +4434,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### 🚀 Enhancement
 
-- Create CLI [#166](https://github.com/haydenbleasel/next-forge/pull/166) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Create CLI [#166](https://github.com/abdurrahmanse//Boilerplate/pull/166) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4446,11 +4446,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### 🚀 Enhancement
 
-- Add Unit Tests [#165](https://github.com/haydenbleasel/next-forge/pull/165) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Add Unit Tests [#165](https://github.com/abdurrahmanse//Boilerplate/pull/165) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4458,12 +4458,12 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Update shadcn/ui ([@haydenbleasel](https://github.com/haydenbleasel))
-- Bump deps ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update shadcn/ui ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Bump deps ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4471,11 +4471,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Bump deps ([@haydenbleasel](https://github.com/haydenbleasel))
+- Bump deps ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4483,11 +4483,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Update structure.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update structure.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4495,12 +4495,12 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Update debugging.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
-- Create sitemap.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update debugging.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Create sitemap.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4508,11 +4508,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### 🚀 Enhancement
 
-- Debugging [#164](https://github.com/haydenbleasel/next-forge/pull/164) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Debugging [#164](https://github.com/abdurrahmanse//Boilerplate/pull/164) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4520,16 +4520,16 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Bump deps ([@haydenbleasel](https://github.com/haydenbleasel))
+- Bump deps ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### 🔩 Dependency Updates
 
-- Bump cmdk from 1.0.1 to 1.0.3 [#162](https://github.com/haydenbleasel/next-forge/pull/162) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump cmdk from 1.0.1 to 1.0.3 [#162](https://github.com/abdurrahmanse//Boilerplate/pull/162) ([@dependabot[bot]](https://github.com/dependabot[bot]))
 
 #### Authors: 2
 
 - [@dependabot[bot]](https://github.com/dependabot[bot])
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4537,11 +4537,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Bump deps ([@haydenbleasel](https://github.com/haydenbleasel))
+- Bump deps ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4549,16 +4549,16 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Misc fixes, add tooltip to installer copy button ([@haydenbleasel](https://github.com/haydenbleasel))
+- Misc fixes, add tooltip to installer copy button ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### 🔩 Dependency Updates
 
-- Bump ws from 7.5.9 to 8.18.0 [#160](https://github.com/haydenbleasel/next-forge/pull/160) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump ws from 7.5.9 to 8.18.0 [#160](https://github.com/abdurrahmanse//Boilerplate/pull/160) ([@dependabot[bot]](https://github.com/dependabot[bot]))
 
 #### Authors: 2
 
 - [@dependabot[bot]](https://github.com/dependabot[bot])
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4566,11 +4566,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Update global.css ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update global.css ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4578,11 +4578,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Fix typo ([@haydenbleasel](https://github.com/haydenbleasel))
+- Fix typo ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4590,11 +4590,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Minor docs fixes ([@haydenbleasel](https://github.com/haydenbleasel))
+- Minor docs fixes ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4602,11 +4602,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### 🚀 Enhancement
 
-- Improve Dark Mode support [#159](https://github.com/haydenbleasel/next-forge/pull/159) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Improve Dark Mode support [#159](https://github.com/abdurrahmanse//Boilerplate/pull/159) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4614,12 +4614,12 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Update shadcn/ui ([@haydenbleasel](https://github.com/haydenbleasel))
-- Bump deps ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update shadcn/ui ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Bump deps ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4627,11 +4627,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### 🚀 Enhancement
 
-- Improve SEO [#158](https://github.com/haydenbleasel/next-forge/pull/158) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Improve SEO [#158](https://github.com/abdurrahmanse//Boilerplate/pull/158) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4639,11 +4639,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Fix typo ([@haydenbleasel](https://github.com/haydenbleasel))
+- Fix typo ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4651,11 +4651,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- More tiny fixes ([@haydenbleasel](https://github.com/haydenbleasel))
+- More tiny fixes ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4663,11 +4663,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Fix and update docs fonts ([@haydenbleasel](https://github.com/haydenbleasel))
+- Fix and update docs fonts ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4675,11 +4675,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Update analytics.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update analytics.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4687,11 +4687,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Improve PostHog integration ([@haydenbleasel](https://github.com/haydenbleasel))
+- Improve PostHog integration ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4699,11 +4699,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Update flags.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update flags.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4711,11 +4711,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Add package-install remark plugin ([@haydenbleasel](https://github.com/haydenbleasel))
+- Add package-install remark plugin ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4723,12 +4723,12 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Fix formatting of PostHog ([@haydenbleasel](https://github.com/haydenbleasel))
-- Split error capture and monitoring ([@haydenbleasel](https://github.com/haydenbleasel))
+- Fix formatting of PostHog ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Split error capture and monitoring ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4736,11 +4736,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Add missing status component, improve docs ([@haydenbleasel](https://github.com/haydenbleasel))
+- Add missing status component, improve docs ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4748,11 +4748,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Add zoomable images, misc fixes ([@haydenbleasel](https://github.com/haydenbleasel))
+- Add zoomable images, misc fixes ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4760,11 +4760,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Run Ultracite ([@haydenbleasel](https://github.com/haydenbleasel))
+- Run Ultracite ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4772,11 +4772,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### 🚀 Enhancement
 
-- Add Vercel Feature Flags [#154](https://github.com/haydenbleasel/next-forge/pull/154) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Add Vercel Feature Flags [#154](https://github.com/abdurrahmanse//Boilerplate/pull/154) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4784,11 +4784,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### 🚀 Enhancement
 
-- Implement Posthog [#156](https://github.com/haydenbleasel/next-forge/pull/156) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Implement Posthog [#156](https://github.com/abdurrahmanse//Boilerplate/pull/156) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4796,11 +4796,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Update global.css ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update global.css ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4808,11 +4808,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Update layout.config.tsx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update layout.config.tsx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4820,12 +4820,12 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Misc fixes ([@haydenbleasel](https://github.com/haydenbleasel))
-- Update index.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Misc fixes ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Update index.mdx ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4833,15 +4833,15 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### 🐛 Bug Fix
 
-- Docs [#155](https://github.com/haydenbleasel/next-forge/pull/155) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Docs [#155](https://github.com/abdurrahmanse//Boilerplate/pull/155) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### ⚠️ Pushed to `main`
 
-- Update README.md ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update README.md ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4849,11 +4849,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Remove leftover pscale stuff ([@haydenbleasel](https://github.com/haydenbleasel))
+- Remove leftover pscale stuff ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4861,11 +4861,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Add Clerk as remote image pattern ([@haydenbleasel](https://github.com/haydenbleasel))
+- Add Clerk as remote image pattern ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4873,11 +4873,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Deprecate use of FC ([@haydenbleasel](https://github.com/haydenbleasel))
+- Deprecate use of FC ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4885,11 +4885,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### 🚀 Enhancement
 
-- 2.2 [#152](https://github.com/haydenbleasel/next-forge/pull/152) ([@haydenbleasel](https://github.com/haydenbleasel))
+- 2.2 [#152](https://github.com/abdurrahmanse//Boilerplate/pull/152) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4897,11 +4897,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### 🚀 Enhancement
 
-- 2.1 [#151](https://github.com/haydenbleasel/next-forge/pull/151) ([@haydenbleasel](https://github.com/haydenbleasel))
+- 2.1 [#151](https://github.com/abdurrahmanse//Boilerplate/pull/151) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4909,11 +4909,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Fix typo ([@haydenbleasel](https://github.com/haydenbleasel))
+- Fix typo ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4921,11 +4921,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Bump deps ([@haydenbleasel](https://github.com/haydenbleasel))
+- Bump deps ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4933,11 +4933,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Add missing LQIP props ([@haydenbleasel](https://github.com/haydenbleasel))
+- Add missing LQIP props ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4945,11 +4945,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### 🐛 Bug Fix
 
-- Demo fixes [#150](https://github.com/haydenbleasel/next-forge/pull/150) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Demo fixes [#150](https://github.com/abdurrahmanse//Boilerplate/pull/150) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4957,11 +4957,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Update opengraph images ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update opengraph images ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4969,11 +4969,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Improve installer ([@haydenbleasel](https://github.com/haydenbleasel))
+- Improve installer ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4981,11 +4981,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### 💥 Breaking Change
 
-- Version 2 [#149](https://github.com/haydenbleasel/next-forge/pull/149) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Version 2 [#149](https://github.com/abdurrahmanse//Boilerplate/pull/149) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -4993,11 +4993,11 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### 🚀 Enhancement
 
-- 1.2.0 [#144](https://github.com/haydenbleasel/next-forge/pull/144) ([@haydenbleasel](https://github.com/haydenbleasel))
+- 1.2.0 [#144](https://github.com/abdurrahmanse//Boilerplate/pull/144) ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 ---
 
@@ -5005,12 +5005,12 @@ Thank you, Ankur Tyagi ([@tyaga001](https://github.com/tyaga001)), for all your 
 
 #### ⚠️ Pushed to `main`
 
-- Attempt installing auto deps ([@haydenbleasel](https://github.com/haydenbleasel))
-- Update package.json ([@haydenbleasel](https://github.com/haydenbleasel))
-- Misc fixes ([@haydenbleasel](https://github.com/haydenbleasel))
-- Create release.yml ([@haydenbleasel](https://github.com/haydenbleasel))
-- Create .autorc ([@haydenbleasel](https://github.com/haydenbleasel))
+- Attempt installing auto deps ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Update package.json ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Misc fixes ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Create release.yml ([@abdurrahmanse](https://github.com/abdurrahmanse))
+- Create .autorc ([@abdurrahmanse](https://github.com/abdurrahmanse))
 
 #### Authors: 1
 
-- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Hayden Bleasel ([@abdurrahmanse](https://github.com/abdurrahmanse))

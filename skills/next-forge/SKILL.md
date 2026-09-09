@@ -1,18 +1,18 @@
 ---
-name: next-forge
-description: Expert assistance for next-forge — a production-grade Turborepo template for Next.js SaaS apps. Triggers on questions about next-forge installation, setup, architecture, packages, customization, deployment, and development workflows.
+name: /Boilerplate
+description: Expert assistance for /Boilerplate — a production-grade Turborepo template for Next.js SaaS apps. Triggers on questions about /Boilerplate installation, setup, architecture, packages, customization, deployment, and development workflows.
 ---
 
-# next-forge
+# /Boilerplate
 
-next-forge is a production-grade Turborepo template for building Next.js SaaS applications. It provides a monorepo structure with multiple apps, shared packages, and integrations for authentication, database, payments, email, CMS, analytics, observability, security, and more.
+/Boilerplate is a production-grade Turborepo template for building Next.js SaaS applications. It provides a monorepo structure with multiple apps, shared packages, and integrations for authentication, database, payments, email, CMS, analytics, observability, security, and more.
 
 ## Quick Start
 
 Initialize a new project:
 
 ```bash
-npx next-forge@latest init
+npx /Boilerplate@latest init
 ```
 
 The CLI prompts for a project name and package manager (bun, npm, yarn, or pnpm). After installation:

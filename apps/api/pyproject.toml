@@ -1,0 +1,20 @@
+[project]
+name = "api"
+version = "0.1.0"
+description = "FastAPI Backend"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi[standard]",
+    "uvicorn",
+    "sqlalchemy",
+    "alembic",
+    "asyncpg",
+    "stripe",
+    "svix",
+    "posthog",
+    "clerk-backend-api",
+    "python-dotenv",
+    "pydantic-settings",
+    "greenlet>=3.5.5",
+    "aiosqlite>=0.22.1",
+]

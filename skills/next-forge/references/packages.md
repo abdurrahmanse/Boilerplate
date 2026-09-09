@@ -77,7 +77,7 @@ await resend?.emails.send({
 **Key exports**:
 - `Feed`, `Body`, `TableOfContents`, `Image`, `Toolbar` — content rendering components
 
-**Setup**: Fork the `basehub/next-forge` template, generate a Read Token, set `BASEHUB_TOKEN`.
+**Setup**: Fork the `basehub//Boilerplate` template, generate a Read Token, set `BASEHUB_TOKEN`.
 
 **Features**: Type-safe content queries, Draft Mode preview, on-demand revalidation via webhooks.
 

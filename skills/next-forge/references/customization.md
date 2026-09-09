@@ -2,7 +2,7 @@
 
 ## Swapping Providers
 
-next-forge is designed to be modular. Each integration can be replaced by modifying its corresponding package.
+/Boilerplate is designed to be modular. Each integration can be replaced by modifying its corresponding package.
 
 ### Database / ORM
 

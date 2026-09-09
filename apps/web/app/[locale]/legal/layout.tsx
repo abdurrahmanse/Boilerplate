@@ -1,15 +1,13 @@
-import { Toolbar } from "@repo/cms/components/toolbar";
 import type { ReactNode } from "react";
 
-interface LegalLayoutProps {
-  children: ReactNode;
+interface LegalLayoutProperties {
+  readonly children: ReactNode;
 }
 
-const LegalLayout = ({ children }: LegalLayoutProps) => (
-  <>
+const LegalLayout = ({ children }: LegalLayoutProperties) => (
+  <div className="prose prose-sm prose-zinc dark:prose-invert mx-auto py-24">
     {children}
-    <Toolbar />
-  </>
+  </div>
 );
 
 export default LegalLayout;

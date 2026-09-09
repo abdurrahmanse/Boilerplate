@@ -1,5 +1,4 @@
 import { auth } from "@repo/auth/server";
-import { database } from "@repo/database";
 import type { Metadata } from "next";
 import dynamic from "next/dynamic";
 import { notFound } from "next/navigation";
@@ -23,7 +22,16 @@ export const metadata: Metadata = {
 };
 
 const App = async () => {
-  const pages = await database.page.findMany();
+  let pages: any[] = [];
+  try {
+    const res = await fetch("http://localhost:8000/pages", { cache: "no-store" });
+    if (res.ok) {
+      pages = await res.json();
+    }
+  } catch (error) {
+    console.error("Failed to fetch pages", error);
+  }
+
   const { orgId } = await auth();
 
   if (!orgId) {

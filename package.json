@@ -1,16 +1,16 @@
 {
-  "name": "next-forge",
+  "name": "/Boilerplate",
   "version": "6.0.2",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vercel/next-forge.git"
+    "url": "git+https://github.com/vercel//Boilerplate.git"
   },
   "publishConfig": {
     "provenance": true,
     "access": "public"
   },
   "bin": {
-    "next-forge": "dist/index.js"
+    "/Boilerplate": "dist/index.js"
   },
   "files": [
     "dist/index.js"

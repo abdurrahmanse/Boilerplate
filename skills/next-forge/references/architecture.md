@@ -2,10 +2,10 @@
 
 ## Monorepo Structure
 
-next-forge uses Turborepo to manage a monorepo with apps and packages.
+/Boilerplate uses Turborepo to manage a monorepo with apps and packages.
 
 ```
-next-forge/
+/Boilerplate/
 ├── apps/
 │   ├── app/          # Main SaaS app (port 3000)
 │   ├── web/          # Marketing site (port 3001)
