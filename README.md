@@ -1,75 +1,140 @@
-# React + TypeScript + Vite
+# ▲ / next-forge
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Production-grade Turborepo template for Next.js apps.**
 
-Currently, two official plugins are available:
+<div>
+  <img src="https://img.shields.io/npm/dy/next-forge" alt="" />
+  <img src="https://img.shields.io/npm/v/next-forge" alt="" />
+  <img src="https://img.shields.io/github/license/vercel/next-forge" alt="" />
+</div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Overview
 
-## React Compiler
+[next-forge](https://github.com/vercel/next-forge) is a production-grade [Turborepo](https://turborepo.com) template for [Next.js](https://nextjs.org/) apps. It's designed to be a comprehensive starting point for building SaaS applications, providing a solid, opinionated foundation with minimal configuration required.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Built on a decade of experience building web applications, next-forge balances speed and quality to help you ship thoroughly-built products faster.
 
-## Expanding the ESLint configuration
+### Philosophy
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+next-forge is built around five core principles:
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+- **Fast** — Quick to build, run, deploy, and iterate on
+- **Cheap** — Free to start with services that scale with you
+- **Opinionated** — Integrated tooling designed to work together
+- **Modern** — Latest stable features with healthy community support
+- **Safe** — End-to-end type safety and robust security posture
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+## Demo
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+Experience next-forge in action:
 
+- [Web](https://demo.next-forge.com) — Marketing website
+- [App](https://app.demo.next-forge.com) — Main application
+- [Storybook](https://storybook.demo.next-forge.com) — Component library
+- [API](https://api.demo.next-forge.com/health) — API health check
+
+## Features
+
+next-forge comes with batteries included:
+
+### Apps
+
+- **Web** — Marketing site built with Tailwind CSS and TWBlocks
+- **App** — Main application with authentication and database integration
+- **API** — RESTful API with health checks and monitoring
+- **Docs** — Documentation site powered by Mintlify
+- **Email** — Email templates with React Email
+- **Storybook** — Component development environment
+
+### Packages
+
+- **Authentication** — Powered by [Clerk](https://clerk.com)
+- **Database** — Type-safe ORM with migrations
+- **Design System** — Comprehensive component library with dark mode
+- **Payments** — Subscription management via [Stripe](https://stripe.com)
+- **Email** — Transactional emails via [Resend](https://resend.com)
+- **Analytics** — Web ([Google Analytics](https://developers.google.com/analytics)) and product ([Posthog](https://posthog.com))
+- **Observability** — Error tracking ([Sentry](https://sentry.io)), logging, and uptime monitoring ([BetterStack](https://betterstack.com))
+- **Security** — Application security ([Arcjet](https://arcjet.com)), rate limiting, and secure headers
+- **CMS** — Type-safe content management for blogs and documentation
+- **SEO** — Metadata management, sitemaps, and JSON-LD
+- **AI** — AI integration utilities
+- **Webhooks** — Inbound and outbound webhook handling
+- **Collaboration** — Real-time features with avatars and live cursors
+- **Feature Flags** — Feature flag management
+- **Cron** — Scheduled job management
+- **Storage** — File upload and management
+- **Internationalization** — Multi-language support
+- **Notifications** — In-app notification system
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js 20+
+- [Bun](https://bun.sh) (or npm/yarn/pnpm)
+- [Stripe CLI](https://docs.stripe.com/stripe-cli) for local webhook testing
+
+### Installation
+
+Create a new next-forge project:
+
+```sh
+npx next-forge@latest init
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+### Setup
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+1. Configure your environment variables
+2. Set up required service accounts (Clerk, Stripe, Resend, etc.)
+3. Run the development server
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+For detailed setup instructions, read the [documentation](https://www.next-forge.com/docs).
+
+## Structure
+
+next-forge uses a monorepo structure managed by Turborepo:
 
 ```
+next-forge/
+├── apps/           # Deployable applications
+│   ├── web/        # Marketing website (port 3001)
+│   ├── app/        # Main application (port 3000)
+│   ├── api/        # API server
+│   ├── docs/       # Documentation
+│   ├── email/      # Email templates
+│   └── storybook/  # Component library
+└── packages/       # Shared packages
+    ├── design-system/
+    ├── database/
+    ├── auth/
+    └── ...
+```
+
+Each app is self-contained and independently deployable. Packages are shared across apps for consistency and maintainability.
+
+## Documentation
+
+Full documentation is available at [next-forge.com/docs](https://www.next-forge.com/docs), including:
+
+- Detailed setup guides
+- Package documentation
+- Migration guides for swapping providers
+- Deployment instructions
+- Examples and recipes
+
+## Contributing
+
+We welcome contributions! See the [contributing guide](https://github.com/vercel/next-forge/blob/main/.github/CONTRIBUTING.md) for details.
+
+## Contributors
+
+<a href="https://github.com/vercel/next-forge/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=vercel/next-forge" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
+## License
+
+MIT
